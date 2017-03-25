@@ -1,35 +1,33 @@
 language: node_js
 node_js: 7
+
 cache:
   directories:
   - node_modules
   - bower_components
   - "${NVM_PATH}_modules"
+
 env:
 - CXX=g++-4.8
+
 addons:
   apt:
     sources:
     - ubuntu-toolchain-r-test
     packages:
     - g++-4.8
+
 install:
 - npm install
 script: echo "Deploying!"
+
 before_deploy: npm run build
+
 deploy:
 - provider: firebase
   skip_cleanup: true
   on:
     branch: master
-  project: hoverboard-master
+  project: 2017-devfesttoulouse
   token:
-    secure: fQOOIF4mkqH438Dawy2v27Qw7UsVizfJ1ZIeTno2sGfq9an8mZk13YWBuYJcOc1hSnEEp3G7/pkBcwykCj1CYpoOS+wMxpVbOQw6ogMGFD8rv+208Ddt1VJw/uUuFdf4k07+eRGokykCsCmcv2J+5wnLw34CKzXYTxLpL6JrxGzkuAcKIRNNda13yxJfYXz7HtQiNo3aMYnv2MCffNnSaR+OJ9Cl0JGYDCg3zuJIqrq7CFJqnUXE5TsO0VGCLY46rLvICY6inNlgZvA4RWi6Yf4rs2swzgC7HKbcIipjptlCRpPdRigLKoxhv6HZUIpkVgDu10Jq6OWU5gj4VpNYYd+c+E4F23nvm+3BEToUuEGURZ9Ins1SSHr3d+WxneQ+jreHCGrEBhKkLknbPQuOQF3khtk9CHu+07fBafBCLt4dGC6oQu+QwTdn+JQ/rYxWAUq8yJjrTsKevgXAVyMqDTU1Fy7FH5QP7HRyI71C6Q7Ij3cVwrFrVXNGzg2h2q8qTX2Yn6Ph9NJUpS+QmVsymblh38zwlyThZ1T4XudYM5iZTzNKKVqCmR9upl8nSLMEez1ukhBETJCslb2nFXJI3k7dsFA5cGO51sbYB44bxIXJwZkQ0s9p8XBNsU9gI2hX6UvE5+tephbohd6YGHmfc+qaJkLpcYKjRbhFsysf60k=
-- provider: firebase
-  skip_cleanup: true
-  on:
-    branch: develop
-  project: hoverboard-dev
-  token:
-    secure: Quq/Ys1GKDYFjqMCD107saKj005L0RaM7Ian9yLIW/er4KdMzwjYw7TVXmtMeJPIfEy/e2/4WJ63K1SaXieBoFndoUcpGWqPOoTrnkkj5K7tzeZKM32XqIarF+BNmOoqW5M7+kuN8L7N3RLp00ywFDOgKgiZJeoaDV6sIRRAIFVh+xHWabVWpFCwCUSeBZpufOsZhMXkicyRe0XhMmkUvS1P5CI3AyZZdIfWG+sguFsPOWRjMFKWrbnsilDFDjf7N0Wd8Z1H2Z0LBn/V00bNb95MSIuOhkdk3a1wP0P5Eollet+Y8g+NpdWyFq0/C+6+ECvFLBjtvbtMY1BVfdxkCo5XlogZx31OmkMWVX6PXOD5Va8aFoJnwvjovUT8oZbSCWEuyMxI91jDsLxXZt542MNfUfQ1Q2+SpUShdcRlwoV2c/XOYvme95HnI1LSqzLubooKWxz8wpa/aovkdZbum54t/z5nA54AXN1lYKsi+hcAFHOeucqd/kHOLG0bx05Ev86wcvNH8qGx+v7S644YH37No7PGnKU3g3Jq/m6quo1B/bMEIaatVnR40D301wAi8tsNWnqEdWFKnAlGrTIDd1qek9OHnApmgBQI8o0FOy6WbzLMwl9PnMl+t+wew/ggSY0IdWhjFWR/S1d6xML8cYHXHVpE0wxkat5ETbIYXlg=
-
+    secure: VWMn8k5GSc7JyHVYN/tcYSf5iRgYCmPd916vFjzHY9/WEEO67/qLzBeqnPDYSYp5Zc/JuOx2eI+Y8i+RjVth+jN8hrGNk0AvDqS44XEw7Tz77z/uCItzQxjXppztDTxD9+mgmSlfdWBrrJgNPEAoyciZRqRx59vm4XKXjz7E5SLumz8SqBYT3DvzpoSvp27Cyf+xhtfGGID9U6OI/EcIlHF3Rj2WjLmh93dh3E2o0Ff/njr7Hi8nBIZUCvsl8zc8uldAVDJoqB/XDX19dx9MFR4qQMUUEwJwPgLCEEFAdvlNvHU41+iWFJUh0Vg//Wrc/JbvFOuNntOc0e8q6qCELPcuxsJkDMEUDYbe2RkR3jmOrLx+yG4de3f+vAIugUesU7hOYZpVmrOiDdpRIsPb7F5LJmgxiY7Koe145N0kv5lSt7zUjgblIUgGQ8Yn6Zi1YwiwwWbyd7xis89KKpdqTnwJgShV8i56inZX054p7Er+Uy0SkSEX4qhsVE2U3MQvn+CdWfqmCNg6wjQs0oy0worcgP1D7D2zVEAytoZJCIQljhIg9G7v3LCWMQF0WIhR1B3dXeH3DOOQTflh8WCb3AQYWq12bfNPGMzPywzo8MixAhCDlf6iEbPjehyxEO4tk5Q/vH9FJ/EZ5TagTPdiGWPUM5EMGz7L3jIpedSeXQk
