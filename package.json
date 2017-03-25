@@ -1,7 +1,7 @@
 {
-  "name": "hoverboard",
+  "name": "2017.devfestttoulouse",
   "version": "1.2.0",
-  "description": "Conference website template",
+  "description": "DevFest Toulouse web site",
   "scripts": {
   	"gulp": "gulp",
   	"bower": "bower",
