@@ -32,7 +32,7 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "devfesttoulouse",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -64,27 +64,27 @@
     {
       "name": "twitter",
       "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "url": "https://twitter.com/devfesttoulouse"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "url": "https://plus.google.com/117732835400777918591"
     },
     {
       "name": "facebook",
       "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "url": "https://www.facebook.com/ToulouseAndroidUserGroup/"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "gdg-toulouse",
+      "url": "https://www.linkedin.com/company/10254434"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
+    "name": "Cinéma CGR Blagnc",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
@@ -114,16 +114,16 @@
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "Accueil",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#f44336",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "DevFest Toulouse 2016",
+          "youtubeId": "r9u2NOwfSoc",
+          "text": "Revivez notre édition 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -146,7 +146,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "Programme",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -154,7 +154,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Equipe",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -162,7 +162,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code de Conduite",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
