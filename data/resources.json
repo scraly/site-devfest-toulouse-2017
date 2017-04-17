@@ -1,48 +1,48 @@
 {
-  "title": "GDG DevFest Season 2016",
+  "title": "DevFest Toulouse 2017",
   "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "dates": "28 Septembre 2017",
+  "locationAddressShort": "Toulouse, France",
   "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
+  "playIcon": "Revivez notre édition 2016",
+  "c4p": "Devenir speaker",
+  "buyTicket": "Acheter votre place",
+  "backToTop": "Remonter",
+  "subscribe": "Souscrire",
+  "yourEmail": "Votre adresse e-mail",
+  "subscribeNote": "Pas de spam, juste les dernières infos !",
+  "contactUs": "Contactez-nous",
+  "ticketsTitle": "Billets",
+  "ticketsDetails": "Votre billet vous donne accès à toutes les conférences, aux pauses café, repas et à la soirée. L'hébergement n'est PAS inclus dans ce prix.",
+  "close": "Fermer",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
   "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
+  "beforeHashtag": "Quoi de neuf",
   "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
+  "partners": "Nos partenaires",
+  "becomePartner": "Devenez partenaire !",
   "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
+  "featuredVideosViewAll": "Voir toutes les vidéos",
   "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
+  "featuredPeopleViewAll": "Voir tous les speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationTitle": "Cinéma CGR Blagnac",
+  "locationDescription": "Un complexe moderne et spacieux, avec 4 salles de cinéma confortable et un grand hall pour discuter entre les sessions",
+  "locationAddress": "E.Leclerc Blagnac, ZAC du Grand Noble, 2 Allée Emile Zola, 31700 Blagnac",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
   "openTeamPage": "Open team page",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
+  "readMore": "Lire la suite",
+  "copyLink": "Coper le lien",
   "filteredBy": "filtered by",
   "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
+  "filter": "Filtrer",
+  "latestNews": "Les dernières nouvelles",
+  "continueReading": "Continuer la lecture",
   "viewPresentation": "View presentation",
   "viewVideo": "View video",
   "skills": "Skills",
@@ -54,21 +54,21 @@
   "browseMore": "Browse more events",
   "youShouldSignInSessions": "Sign in to save sessions",
   "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
+  "offlineMessage": "Vous êtes hors ligne",
   "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
+  "addedToSchedule": "Ajouter à mon agenda",
   "rateSession": "Rate session",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "Visiteurs",
       "links": [
         {
-          "text": "Team",
+          "text": "Equipe",
           "url": "/team/",
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "Code de Conduite",
           "url": "/cod/",
           "newTab": false
         },
@@ -78,32 +78,27 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "GDG DevFest Nantes",
+          "url": "https://devfest.gdgnantes.com/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Paris",
+          "url": "http://devfest.gdgparis.com/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "Devenir partenaire",
       "links": [
         {
-          "text": "Partnership Proposition",
+          "text": "Proposition de partenariat",
           "url": "http://bit.ly/df16-sponsor",
           "newTab": true
         },
         {
-          "text": "Media Kit",
+          "text": "Kit Média",
           "url": "http://bit.ly/df16-media",
           "newTab": true
         }
@@ -113,33 +108,33 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "devfest@toulouseaug.fr",
+        "url": "mailto:devfest@toulouseaug.fr"
       }
     ]
   },
-  "teamPageTitle": "Team",
+  "teamPageTitle": "Equipe",
   "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 450,
+      "caption": "Participants"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "Journée"
     },
     {
-      "counter": 30,
+      "counter": 28,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": 4,
+      "caption": "Tracks en parallèle"
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "DevFest Toulouse 2016",
+    "videoId": "r9u2NOwfSoc"
   }
 }
