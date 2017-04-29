@@ -17,7 +17,7 @@
   },
   "firebase": {
     "name": "2017-devfesttoulouse",
-    "domain": "2017.devfesttoulouse.fr",
+    "domain": "devfesttoulouse-c76d7.firebaseapp.com",
     "database": "https://devfesttoulouse-c76d7.firebaseio.com",
     "api": "AIzaSyCZm9V3mkq9uzQlgf18kJDcBu7iEj8RxYY",
     "userSessionsPath": "/userSessions",
