@@ -73,18 +73,8 @@
           "newTab": false
         },
         {
-          "text": "Google Developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Nantes",
-          "url": "https://devfest.gdgnantes.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Paris",
-          "url": "http://devfest.gdgparis.com/",
+          "text": "DevFest Toulouse 2016",
+          "url": "https://2016.devfesttoulouse.fr/",
           "newTab": true
         }
       ]
