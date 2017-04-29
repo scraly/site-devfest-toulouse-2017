@@ -88,7 +88,18 @@
 
 
     window.HOVERBOARD = window.HOVERBOARD || {};
-    window.ENV = 'dev';
+    window.ENV = function(hostmane) {
+
+      if (
+        hostmane === '2017.devfesttoulouse.fr' ||
+        hostmane === 'devfesttoulouse-c76d7.firebaseapp.com'
+      ) {
+        return 'prod';
+      }
+
+      return 'dev';
+    }(window.location.hostname);
+
     window.PREFIX = '/';
 
     // setup Polymer options
