@@ -36,7 +36,6 @@
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -46,14 +45,6 @@
     {
       "route": "blog",
       "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
     },
     {
       "route": "team",
@@ -73,7 +64,7 @@
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
+      "nickname": "GDGToulouse",
       "url": "https://www.facebook.com/ToulouseAndroidUserGroup/"
     },
     {
@@ -120,11 +111,6 @@
         "backgroundImage": "/images/backgrounds/home2.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "DevFest Toulouse 2016",
-          "youtubeId": "r9u2NOwfSoc",
-          "text": "Revivez notre édition 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
