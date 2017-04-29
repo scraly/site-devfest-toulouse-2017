@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
+    "name": "2017-devfesttoulouse",
+    "domain": "2017.devfesttoulouse.fr",
+    "database": "https://devfesttoulouse-c76d7.firebaseio.com",
+    "api": "AIzaSyCZm9V3mkq9uzQlgf18kJDcBu7iEj8RxYY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
