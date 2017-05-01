@@ -105,7 +105,7 @@
       "title": "Accueil",
       "headerSettings": {
         "backgroundColor": "#f44336",
-        "backgroundImage": "/images/backgrounds/home2.png",
+        "backgroundImage": "/images/backgrounds/header.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
