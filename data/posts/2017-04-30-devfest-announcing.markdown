@@ -1,4 +1,4 @@
-L'organisation de la deuxième édition du DevFest Toulouse à démarré il y à plusieurs mois et nous sommes fier de vous annoncer le lancement officiel de l'édition 2017 qui aura lieu le **jeudi 28 Septembre 2017** !
+L'organisation de la deuxième édition du DevFest Toulouse a démarré il y à plusieurs mois et nous sommes fiers de vous annoncer le lancement officiel de l'édition 2017 qui aura lieu le **jeudi 28 Septembre 2017** !
 
 ![](https://2017.devfesttoulouse.fr/images/posts/2017_header.png)
 
@@ -18,7 +18,7 @@ Cette année nous visons plus grand, avec plus de participants et plus de sessio
  
 * 450 personnes. Nous passons de 300 à 450 personnes pour cette édition 2017. Pour rendre cela possible nous serons dans les locaux des cinémas CGR à Blagnac.
 
-* 4 tracks en parallèle. Nous avons ajouté un track en parallèle de plus que l'an dernier, ce qui signifie que vous aurez droit à 28 sessions.
+* 4 tracks en parallèle. Nous avons ajouté une track en parallèle de plus que l'an dernier, ce qui signifie que vous aurez droit à 28 sessions.
 
 ## Le lieu
 
@@ -33,10 +33,10 @@ Le DevFest Toulouse 2017 aura lieu aux cinémas Méga CGR de Blagnac.
 Nous aurons à notre disposition :
 
 * 1 grande salle pour la keynote et la session de clôture
-* 4 moyenne salles nous permettant de proposer 4 tracks de conférences en parallèle
+* 4 moyennes salles nous permettant de proposer 4 tracks de conférences en parallèle
 * 1 espace de 500 m2 pour l’espace partenaires et restauration.
 
-Nous vous avons écouté et espérons que ce plus grand espace vous convienne.
+Nous vous avons écoutés et espérons que ce plus grand espace vous conviendra.
 
 ## Comment se rendre au DevFest ?
 
@@ -48,7 +48,7 @@ Le cinéma est très facilement accessible.
 * 2. Sortie n°4 Cornebarrieu - Beauzelle
 * 3. Le Centre Commercial est sur votre droite
 
-Le parking du centre commercial propose un parking de 4 000 places.
+Le parking du centre commercial dispose de 4 000 places.
 
 <b>EN BUS :</b>
 
@@ -66,8 +66,8 @@ Ligne T1 - arrêts Grand Noble ou Georges Brassens (depuis Toulouse)
 
 Vous avez un talk ou une idée de talk ?
 
-Nous ouvrons notre appel aux conférences le 8 Mai, alors n'attendez plus et soumettez à notre [CFP](https://devfest-toulouse.cfp.io) ! 
+Nous ouvrons notre appel à conférenciers le 8 Mai, alors n'attendez plus et soumettez à notre [CFP](https://devfest-toulouse.cfp.io) ! 
 
 ## Restez en contact
 
-Afin de suivre l'avance de cette édition 2017 nous vous conseillons de lire nos articles de blog et de nous suivre sur [Twitter](https://www.twitter.com/devfesttoulouse).
+Afin de suivre l'avancée de cette édition 2017 nous vous conseillons de lire nos articles de blog et de nous suivre sur [Twitter](https://www.twitter.com/devfesttoulouse).
