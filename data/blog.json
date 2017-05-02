@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": "devfesttoulouse2016_merci",
     "title": "Résumé de l'édition 2016 et remerciements",
     "posted": "2016-11-28",
@@ -7,8 +6,7 @@
     "secondaryColor": "#455a64",
     "image": "/images/posts/merci.jpg",
     "brief": "Résumé de l'édition 2016 et remerciements pour les sponsors, les participants et tout le monde."
-  },
-   {
+}, {
     "id": "devfest-announcing",
     "title": "Lancement du DevFest Toulouse 2017",
     "posted": "2017-04-30",
@@ -16,5 +14,4 @@
     "secondaryColor": "#455a64",
     "image": "/images/backgrounds/Toulouse_GDG_Cover_2017.png",
     "brief": "L'organisation de la deuxième édition du DevFest Toulouse à démarré il y à plusieurs mois et nous sommes fier de vous annoncer le lancement officiel de l'édition 2017 qui aura lieu le jeudi 28 Septembre 2017 !"
-  }  
-]
+}]

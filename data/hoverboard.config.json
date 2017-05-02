@@ -1,163 +1,154 @@
 {
-  "url": "https://2017.devfesttoulouse.fr/",
-  "startDate": "2017-09-28T09:00:00+01:00",
-  "endDate": "2017-09-28T19:00:00+01:00",
-  "analytics": {
-    "prod": "UA-37717223-3",
-    "dev": "UA-43643469-9"
-  },
-  "organizer": {
-    "name": "GDG Toulouse & Cie",
-    "twitter": "devfesttoulouse"
-  },
-  "webapp": {
-    "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
-  },
-  "firebase": {
-    "name": "2017-devfesttoulouse",
-    "domain": "devfesttoulouse-c76d7.firebaseapp.com",
-    "database": "https://devfesttoulouse-c76d7.firebaseio.com",
-    "api": "AIzaSyCZm9V3mkq9uzQlgf18kJDcBu7iEj8RxYY",
-    "userSessionsPath": "/userSessions",
-    "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
-  },
-  "mailchimp": {
-    "url": "http://eepurl.com/b6Pgvn",
-    "name": "Recevoir la newsletter"
-  },
-  "hashtag": "devfesttoulouse",
-  "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "enableSessionsRating": true,
-  "navigation": [
-    {
-      "route": "home",
-      "permalink": "/"
+    "url": "https://2017.devfesttoulouse.fr/",
+    "startDate": "2017-09-28T09:00:00+01:00",
+    "endDate": "2017-09-28T19:00:00+01:00",
+    "analytics": {
+        "prod": "UA-37717223-3",
+        "dev": "UA-43643469-9"
     },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
+    "organizer": {
+        "name": "GDG Toulouse & Cie",
+        "twitter": "devfesttoulouse"
     },
-    {
-      "route": "team",
-      "permalink": "/team/"
-    }
-  ],
-  "social": [
-    {
-      "name": "twitter",
-      "nickname": "DevFestToulouse",
-      "url": "https://twitter.com/devfesttoulouse"
+    "webapp": {
+        "shortName": "DevFest",
+        "themeColor": "#F57C00",
+        "backgroundColor": "#F57C00"
     },
-    {
-      "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/117732835400777918591"
+    "firebase": {
+        "name": "2017-devfesttoulouse",
+        "domain": "devfesttoulouse-c76d7.firebaseapp.com",
+        "database": "https://devfesttoulouse-c76d7.firebaseio.com",
+        "api": "AIzaSyCZm9V3mkq9uzQlgf18kJDcBu7iEj8RxYY",
+        "userSessionsPath": "/userSessions",
+        "ratingsPath": "/ratings",
+        "indexedDbSession": "hoverboard"
     },
-    {
-      "name": "facebook",
-      "nickname": "GDGToulouse",
-      "url": "https://www.facebook.com/ToulouseAndroidUserGroup/"
+    "mailchimp": {
+        "url": "http://eepurl.com/b6Pgvn",
+        "name": "Recevoir la newsletter"
     },
-    {
-      "name": "linkedin",
-      "nickname": "gdg-toulouse",
-      "url": "https://www.linkedin.com/company/10254434"
-    }
-  ],
-  "location": {
-    "apiKey": "",
-    "name": "Cinéma CGR Blagnac",
-    "address": "E.Leclerc Blagnac, ZAC du Grand Noble, 2 Allée Emile Zola, 31700 Blagnac",
-    "link": "http://www.cgrcinemas.fr/blagnac/",
-    "pointer": {
-      "latitude": 43.644436,
-      "longitude": 1.373449,
-      "zoom": 15
-    },
-    "mapCenter": {
-      "latitude": 43.644436,
-      "longitude": 1.373449
-    },
-    "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
-    ]
-  },
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2016_1.jpg",
-      "small": [
-        "/images/backgrounds/2016_2.jpg",
-        "/images/backgrounds/2016_3.jpg"
-      ]
-    }
-  },
-  "pages": {
-    "home": {
-      "title": "Accueil",
-      "headerSettings": {
-        "backgroundColor": "#f44336",
-        "backgroundImage": "/images/backgrounds/header.png",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "video": {
-          "title": "DevFest Toulouse 2016",
-          "youtubeId": "r9u2NOwfSoc",
-          "text": "Revivez notre édition 2016"
+    "hashtag": "devfesttoulouse",
+    "disqusShortName": "hoverboard-gdg-x",
+    "tweetsSource": "/data/tweets.json",
+    "partnershipProposition": "https://goo.gl/qk3sCZ",
+    "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLn_PepuiEhUYGdcLRS7x5rVzL1scIDjOT",
+    "enableSessionsRating": true,
+    "navigation": [{
+        "route": "home",
+        "permalink": "/"
+    }, {
+        "route": "blog",
+        "permalink": "/blog/"
+    }, {
+        "route": "team",
+        "permalink": "/team/"
+    }],
+    "social": [{
+        "name": "twitter",
+        "nickname": "DevFestToulouse",
+        "url": "https://twitter.com/devfesttoulouse"
+    }, {
+        "name": "gplus",
+        "nickname": "102444623953913144164",
+        "url": "https://plus.google.com/117732835400777918591"
+    }, {
+        "name": "facebook",
+        "nickname": "GDGToulouse",
+        "url": "https://www.facebook.com/ToulouseAndroidUserGroup/"
+    }, {
+        "name": "linkedin",
+        "nickname": "gdg-toulouse",
+        "url": "https://www.linkedin.com/company/10254434"
+    }],
+    "location": {
+        "apiKey": "",
+        "name": "Cinéma CGR Blagnac",
+        "address": "E.Leclerc Blagnac, ZAC du Grand Noble, 2 Allée Emile Zola, 31700 Blagnac",
+        "link": "http://www.cgrcinemas.fr/blagnac/",
+        "pointer": {
+            "latitude": 43.644436,
+            "longitude": 1.373449,
+            "zoom": 15
         },
-        "hideLogo": true,
-        "minHeight": "360px"
-      }
+        "mapCenter": {
+            "latitude": 43.644436,
+            "longitude": 1.373449
+        },
+        "images": [
+            "/images/backgrounds/location_1.jpg",
+            "/images/backgrounds/location_2.jpg",
+            "/images/backgrounds/location_3.jpg"
+        ]
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
+    "gallery": {
+        "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+        "photos": {
+            "big": "/images/backgrounds/2016_1.jpg",
+            "small": [
+                "/images/backgrounds/2016_2.jpg",
+                "/images/backgrounds/2016_3.jpg"
+            ]
+        }
     },
-    "speakers": {
-      "title": "Speakers",
-      "headerSettings": {
-        "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "schedule": {
-      "title": "Programme",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "title": "Equipe",
-      "headerSettings": {
-        "backgroundColor": "#009688",
-	"backgroundImage": "https://lh3.googleusercontent.com/RzjfLPGCfMkCpcvpw7Cx8oypjhBSYKtchRf2bbI8aTb6oT8-A0_-H4isv4T7-cGSl5qrdyLGgX9i0mPVOUSNmKvxvgCYPBtN-Bbdl5b_WDLFuW13SHjbPnA_5ak28VmbFNtq2ZVJnGTdPjU5R_WkNdl95rfBusbiHnO_DcN74J3gjylZ0uqD6PbAtkN2HXA5lBCgE_t3b-AlVWdKldq_0hxi99DZcI8arsuQrQf13VvjCr1OtwQSq02r3kW5BVphe-pZBZzjH4N4qFW3ZBCR5pOc8vfwCz86QD-NoV2flAOfeChg67uZW0kjVCnAHfvbb4nnMamRomVXf_l6bGjquRz8vDNAgwCpXWeHeH8g8XZShVSBsyVK7G2ggyak1BW-4xEyC77cdPktG_y20Wt2Xiqeae3aAt5keFlODCtT4GZNvseA7Un3j37gX_-osHoP9vaLj_vkmERyCFGEZZT_mSDKENvFHLtCnrkg2IsSUgWkwxj-Rh049TIpr-57hrkhYjeny8FPKilJxFNi-W7NtwtSAjicotdxrL9VBnfDcTf-g62T4hUBLqrUAhLBQMM2J7XluDs3eYkm31-RDKt2NJsNYL5QJzEvQ4938qU8EjHZ9ZxwCDeJdbgz1QN8Ye6nlqST9wVPZ65CzZ8qBEvsUwAVgRa9uE7-g9PGllrTidU=w847-h635-no",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "cod": {
-      "title": "Code de Conduite",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-	"backgroundImage": "https://lh3.googleusercontent.com/uKVdbOzfW2ZjhXPQRo9QsnjSUOD6Xuau0xplOhDMW97LIHDaSH5Mm_-OFHypD1nXpB3dIHGKLdjDCZkG-hP71MtrYDdamruDo6-EQi87-8QeJmvqVenN8iCixFgF5nSrqJFzACPYx07Bq4NSyjtpSm7BDG5YQqvoUM3aFHJ0hpoRCJ2PxDtMARjABgcmjWmuaPY4FR_65YZWa8eqIRP6tczk6he5RZJk3mXzZvr3w7_s0drfMx4WGknObwr_6iUFoUlEKQ1mME4Qq5cJyiyGyZ70cGvhrZQBdQL51IAUW4QzkBVkuIx8r392zy8bXBnEaP7-G78iGb0_DWPAEScMt83x0PsfzxzeYBGNy2j1DS7Lxx4FX8b2LIvblOiqzuLhr6Qr0dnr2Nf85lsYNJOVYgdBggotXq_K6h4CTU7AGbyRZcymDiyldTelk3Im281y_OpJpJ6YhGXIYLDQZtS-j5Sd4KVz3ZUKBJFK8A4tP-eWRKbWO_Jqw1lLhHlQcB8Mlu11kt6K7I3MaQ0Z0nPGpZTbeCd1n2tb9m91YV_hoHZ7PTUGXJ7R-5Il2tOomi_BhNhvjuYlzVpHh8CNjPto97kTJurTFGyCmGpQJ52gyNnP6QROQcI9ffIWQAnCQTrhNsFtU28vTbJrnxoBIKRuS6tDMQNLECdO4xh7LHZVyE4=w874-h492-no",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
+    "pages": {
+        "home": {
+            "title": "Accueil",
+            "headerSettings": {
+                "backgroundColor": "#f44336",
+                "backgroundImage": "/images/backgrounds/header.png",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff",
+                "video": {
+                    "title": "DevFest Toulouse 2016",
+                    "youtubeId": "r9u2NOwfSoc",
+                    "text": "Revivez notre édition 2016"
+                },
+                "hideLogo": true,
+                "minHeight": "360px"
+            }
+        },
+        "blog": {
+            "title": "Blog",
+            "headerSettings": {
+                "backgroundColor": "#03a9f4",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff"
+            }
+        },
+        "speakers": {
+            "title": "Speakers",
+            "headerSettings": {
+                "backgroundColor": "#3f51b5",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff"
+            }
+        },
+        "schedule": {
+            "title": "Programme",
+            "headerSettings": {
+                "backgroundColor": "#673ab7",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff"
+            }
+        },
+        "team": {
+            "title": "Equipe",
+            "headerSettings": {
+                "backgroundColor": "#009688",
+                "backgroundImage": "https://lh3.googleusercontent.com/RzjfLPGCfMkCpcvpw7Cx8oypjhBSYKtchRf2bbI8aTb6oT8-A0_-H4isv4T7-cGSl5qrdyLGgX9i0mPVOUSNmKvxvgCYPBtN-Bbdl5b_WDLFuW13SHjbPnA_5ak28VmbFNtq2ZVJnGTdPjU5R_WkNdl95rfBusbiHnO_DcN74J3gjylZ0uqD6PbAtkN2HXA5lBCgE_t3b-AlVWdKldq_0hxi99DZcI8arsuQrQf13VvjCr1OtwQSq02r3kW5BVphe-pZBZzjH4N4qFW3ZBCR5pOc8vfwCz86QD-NoV2flAOfeChg67uZW0kjVCnAHfvbb4nnMamRomVXf_l6bGjquRz8vDNAgwCpXWeHeH8g8XZShVSBsyVK7G2ggyak1BW-4xEyC77cdPktG_y20Wt2Xiqeae3aAt5keFlODCtT4GZNvseA7Un3j37gX_-osHoP9vaLj_vkmERyCFGEZZT_mSDKENvFHLtCnrkg2IsSUgWkwxj-Rh049TIpr-57hrkhYjeny8FPKilJxFNi-W7NtwtSAjicotdxrL9VBnfDcTf-g62T4hUBLqrUAhLBQMM2J7XluDs3eYkm31-RDKt2NJsNYL5QJzEvQ4938qU8EjHZ9ZxwCDeJdbgz1QN8Ye6nlqST9wVPZ65CzZ8qBEvsUwAVgRa9uE7-g9PGllrTidU=w847-h635-no",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff"
+            }
+        },
+        "cod": {
+            "title": "Code de Conduite",
+            "headerSettings": {
+                "backgroundColor": "#673ab7",
+                "backgroundImage": "https://lh3.googleusercontent.com/uKVdbOzfW2ZjhXPQRo9QsnjSUOD6Xuau0xplOhDMW97LIHDaSH5Mm_-OFHypD1nXpB3dIHGKLdjDCZkG-hP71MtrYDdamruDo6-EQi87-8QeJmvqVenN8iCixFgF5nSrqJFzACPYx07Bq4NSyjtpSm7BDG5YQqvoUM3aFHJ0hpoRCJ2PxDtMARjABgcmjWmuaPY4FR_65YZWa8eqIRP6tczk6he5RZJk3mXzZvr3w7_s0drfMx4WGknObwr_6iUFoUlEKQ1mME4Qq5cJyiyGyZ70cGvhrZQBdQL51IAUW4QzkBVkuIx8r392zy8bXBnEaP7-G78iGb0_DWPAEScMt83x0PsfzxzeYBGNy2j1DS7Lxx4FX8b2LIvblOiqzuLhr6Qr0dnr2Nf85lsYNJOVYgdBggotXq_K6h4CTU7AGbyRZcymDiyldTelk3Im281y_OpJpJ6YhGXIYLDQZtS-j5Sd4KVz3ZUKBJFK8A4tP-eWRKbWO_Jqw1lLhHlQcB8Mlu11kt6K7I3MaQ0Z0nPGpZTbeCd1n2tb9m91YV_hoHZ7PTUGXJ7R-5Il2tOomi_BhNhvjuYlzVpHh8CNjPto97kTJurTFGyCmGpQJ52gyNnP6QROQcI9ffIWQAnCQTrhNsFtU28vTbJrnxoBIKRuS6tDMQNLECdO4xh7LHZVyE4=w874-h492-no",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff"
+            }
+        }
     }
-  }
 }
