@@ -1,4 +1,4 @@
-L'organisation de la deuxième édition du DevFest Toulouse a démarré il y à plusieurs mois et nous sommes fiers de vous annoncer le lancement officiel de l'édition 2017 qui aura lieu le **jeudi 28 Septembre 2017** !
+L'organisation de la deuxième édition du DevFest Toulouse a démarré il y a plusieurs mois et nous sommes fiers de vous annoncer le lancement officiel de l'édition 2017 qui aura lieu le **jeudi 28 Septembre 2017** !
 
 ![](https://2017.devfesttoulouse.fr/images/posts/2017_header.png)
 
