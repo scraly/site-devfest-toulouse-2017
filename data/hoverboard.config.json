@@ -99,7 +99,7 @@
             "title": "Accueil",
             "headerSettings": {
                 "backgroundColor": "#f44336",
-                "backgroundImage": "/images/backgrounds/header.png",
+                "backgroundImage": "/images/backgrounds/capitole_panorama2.jpg",
                 "fontColor": "#fff",
                 "tabBarColor": "#fff",
                 "hideLogo": true,
