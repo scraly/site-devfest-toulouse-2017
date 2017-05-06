@@ -34,7 +34,7 @@
   },
   "hashtag": "devfesttoulouse",
     "disqusShortName": "hoverboard-gdg-x",
-    "tweetsSource": "/data/tweets.json",
+    "tweetsSource": "https://scraly.com/tweetledee/userjson.php?user=devfesttoulouse&cache_interval=8000",
     "partnershipProposition": "https://goo.gl/qk3sCZ",
     "enableSessionsRating": true,
     "navigation": [{
