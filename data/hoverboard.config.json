@@ -66,6 +66,7 @@
         "name": "Cinéma CGR Blagnac",
         "address": "E.Leclerc Blagnac, ZAC du Grand Noble, 2 Allée Emile Zola, 31700 Blagnac",
         "link": "http://www.cgrcinemas.fr/blagnac/",
+        "direction": "https://www.google.fr/maps/dir//Cinéma+CGR+Blagnac,+ZAC+du+Grand+Noble,+2+Allée+Emile+Zola,+31700+Blagnac/@43.6442066,1.3722505,17.76z",
         "pointer": {
             "latitude": 43.644436,
             "longitude": 1.373449,
