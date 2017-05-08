@@ -144,13 +144,17 @@
                 <iron-icon icon="icons:feedback" item-icon></iron-icon>
                 <paper-item-body>{$ locationDescription $}</paper-item-body>
               </paper-icon-item>
-              <paper-icon-item disabled>
-                <iron-icon icon="icons:location" item-icon></iron-icon>
-                <paper-item-body two-line>
-                  <div>{$ locationAddress $}</div>
-                  <div secondary>{$ locationAddressShort $}</div>
-                </paper-item-body>
-              </paper-icon-item>
+              <a href="{$ location.gmaps $}"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                <paper-icon-item disabled>
+                  <iron-icon icon="icons:location" item-icon></iron-icon>
+                  <paper-item-body two-line>
+                    <div>{$ locationAddress $}</div>
+                    <div secondary>{$ locationAddressShort $}</div>
+                  </paper-item-body>
+                </paper-icon-item>
+              </a>
             </div>
             <div class="card-actions">
               <a class="bottom-link"
