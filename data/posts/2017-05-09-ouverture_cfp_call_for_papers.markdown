@@ -29,7 +29,7 @@ Afin de contenter encore plus de personnes, nous mettons à disposition plus de 
 
 ![](/images/posts/cfp4.jpg)
 
-# C'est décidé, je soumet !
+# C'est décidé, je soumets !
 
 L'année dernière nous avons reçu plus de 70 soumissions, allons nous battre ce chiffre cette année grâce à vous ?
 
