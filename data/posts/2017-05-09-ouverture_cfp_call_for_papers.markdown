@@ -14,7 +14,7 @@ En plus du format conférence, de 45 minutes, nous ouvrons un nouveau format : l
 
 # Plus de thèmes
 
-Afin de contenter encore plus de personnes, nous mettons à disposition plus de thèmes cette année, vous avez l'embarra du choix, voici les catégories :
+Afin de contenter encore plus de personnes, nous mettons à disposition plus de thèmes cette année, vous avez l'embarras du choix ! Voici les catégories :
 * Mobile : Android et autres développements mobiles
 * Web : Les dernières technos web (PWA, polymer, services workers ...)
 * Methods & Tools : Ici on parle de craftsmanship, d'intégration continue, de DevOps ...
@@ -40,6 +40,7 @@ Et pas de panique, si votre talk n'est pas accepté, une place au tarif early bi
         <paper-button class="primary" raised>Soumettre un talk</paper-button>
       </a>
 
-Si vous avez des questions vous pouvez nous les envoyer a [devfest@gdgtoulouse.fr](devfest@gdgtoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://www.twitter.com/devfesttoulouse).
+Si vous avez des questions vous pouvez nous les envoyer à [devfest@gdgtoulouse.fr](devfest@gdgtoulouse.fr) ou bien sur notre compte Twitter [@DevFestToulouse](https://www.twitter.com/devfesttoulouse).
+
 
 
