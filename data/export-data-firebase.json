@@ -31,13 +31,13 @@
     "title" : "Or"
   }, {
     "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "logoUrl" : "https://assets.toptal.io/assets/front/static/public/blocks/logo/big_1ef32d.png",
+      "name" : "Topal",
+      "url" : "https://www.toptal.com/#select-just-supreme-hackers"
     }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
+      "logoUrl" : "../images/partners/livingobjects.png",
+      "name" : "Living Objects",
+      "url" : "http://livingobjects.com/"
     }, {
       "logoUrl" : "../images/partners/sponsor-icon.png",
       "name" : "",
@@ -60,6 +60,19 @@
       "url" : ""
     } ],
     "title" : "Argent"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "https://www.occitech.fr/wp-content/uploads/2014/01/logo.png",
+      "name" : "Occitech",
+      "url" : "https://www.occitech.fr/",
+      "width" : 170
+    }, {
+      "logoUrl" : "../images/partners/sponsor-icon.png",
+      "name" : "Vous ?",
+      "url" : "",
+      "width" : 170
+    } ],
+    "title" : "Soutien"
   }, {
     "logos" : [ {
       "logoUrl" : "https://2016.devfesttoulouse.fr/images/partners/logo_programmez.svg",
@@ -125,6 +138,10 @@
       "logoUrl" : "https://pbs.twimg.com/profile_images/1539980080/logo_digitalplace_OK_400x400.png",
       "name" : "DigitalPlace",
       "url" : "http://www.digitalplace.fr/"
+    }, {
+      "logoUrl" : "/images/partners/logo_dot_net toulouse.png",
+      "name" : "Meetup DotNet Toulouse",
+      "url" : "https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/"
     } ],
     "title" : "Communautés soutien"
   } ],
@@ -1541,7 +1558,7 @@
       "info" : "30 premières places",
       "name" : "Blind Bird",
       "price" : 30,
-      "soldOut" : false,
+      "soldOut" : true,
       "starts" : "9 Mai"
     }, {
       "currency" : "€",
