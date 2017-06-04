@@ -22,4 +22,12 @@
     "secondaryColor": "#455a64",
     "image": "/images/posts/cfp0.jpg",
     "brief": "L'organisation de la deuxième édition du DevFest Toulouse à démarré il y à plusieurs mois et nous sommes fier de vous annoncer le lancement officiel de l'édition 2017 qui aura lieu le jeudi 28 Septembre 2017 !"
+} , {
+    "id": "devfest_website",
+    "title": "Derrière le rideau - Notre site web",
+    "posted": "2017-06-03",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/posts/2017-06-03-devfest_website/hoverboard.png",
+    "brief": "Nous souhaitons vous faire découvrir le projet Hoverboard qui est un projet OpenSource nous permettant d'avoir un site web de qualité !"
 }]
