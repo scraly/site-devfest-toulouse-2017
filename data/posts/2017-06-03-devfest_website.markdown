@@ -6,7 +6,7 @@ Dans [l'équipe](https://devfesttoulouse.fr/team/), nous sommes tous des dévelo
 
 Nous sommes partis de l'excellent [projet Hoverboard](https://github.com/gdg-x/hoverboard) créé et maintenu par l'équipe du [GDG Lviv | DevFest Ukraine](https://devfest.gdg.org.ua/team/) que nous remercions grandement au passage.
 
-Comme tout bon projet, il est totallement OpenSource (licence MIT) et tout le monde peux l'utiliser, le modifier et contribuer, ce que nous n'avons pas hésité à faire pour corriger des bugs, faciliter le développement ou même améliorer des fonctionnalités !  
+Comme tout bon projet, il est totalement OpenSource (licence MIT) et tout le monde peut l'utiliser, le modifier et contribuer, ce que nous n'avons pas hésité à faire pour corriger des bugs, faciliter le développement ou même améliorer des fonctionnalités !  
 
 <img src="/images/posts/2017-06-03-devfest_website/gdg-x-hoverboard.png" alt="hoverboard" width="500" />
 
@@ -24,15 +24,15 @@ Ces technologies nous permettent de transformer notre simple site web en Progres
 <img src="/images/posts/2017-06-03-devfest_website/pwa.png" alt="pwa" width="300" />
 
  
-# Et qui se charge des mises à jours du site ?
+# Et qui se charge des mises à jour du site ?
 
-Nous travaillons en équipe, les mises à jours se font donc en équipe. Il vous suffit de regarder notre flux de commit sur le [projet Github du site](https://github.com/GDGToulouse/site-devfest-toulouse-2017) et vous verrez que tout le monde met la main à la pate.
+Nous travaillons en équipe, les mises à jour se font donc en équipe. Il vous suffit de regarder notre flux de commit sur le [projet Github du site](https://github.com/GDGToulouse/site-devfest-toulouse-2017) et vous verrez que tout le monde met la main à la pâte.
 
 Nous fonctionnons par Pull-Request, chaque personne de l'équipe, quand il souhaite faire une modif sur le site doit soumettre une PR qui sera analysée par quelqu'un d'autre qui acceptera ou refusera la modification.
 
 <img src="/images/posts/2017-06-03-devfest_website/commit-flow.png" alt="pwa" width="600" />
 
-Cet article ne fera pas exception et sera donc intégré à une PR comme toutes modifications du site...
+Cet article ne fera pas exception et sera donc intégré à une PR comme toute modification du site...
  
 
 # Et qui se tape tous les déploiements ?
