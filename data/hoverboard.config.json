@@ -28,11 +28,11 @@
         "url": "http://eepurl.com/b6Pgvn",
         "name": "Recevoir la newsletter"
     },
-  "dateFormat": {
-    "locale": "en-US",
-    "blog": {"month": "short", "day": "numeric", "year": "numeric"}
-  },
-  "hashtag": "devfesttoulouse",
+    "dateFormat": {
+        "locale": "fr-FR",
+        "blog": {"month": "short", "day": "numeric", "year": "numeric"}
+    },
+    "hashtag": "devfesttoulouse",
     "disqusShortName": "hoverboard-gdg-x",
     "tweetsSource": "https://scraly.com/tweetledee/userjson.php?user=devfesttoulouse&cache_interval=8000",
     "partnershipProposition": "https://goo.gl/qk3sCZ",
