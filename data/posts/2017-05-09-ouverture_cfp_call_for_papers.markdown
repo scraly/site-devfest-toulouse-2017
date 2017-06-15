@@ -2,7 +2,7 @@
 
 Comme vous le savez, l'édition 2017 du DevFest Toulouse aura lieu le 28 septembre. En attendant cette super journée, nous vous annonçons l'ouverture de notre CFP (Call For Papers - Appel à conférences) !
 
-Cette année vous pouvez soumettre un talk <b>entre le 9 Mai et le 15 Août</b>. Nous sélectionnerons les premiers speakers et speakeuses dans un mois, donc n'attendez pas le dernier moment et soumettez d'ici le 9 Juin pour avoir une chance d'être parmi nos "top speakers" !
+Cette année vous pouvez soumettre un talk <b>entre le 9 Mai et le 14 Juillet</b>. Nous sélectionnerons les premiers speakers et speakeuses dans un mois, donc n'attendez pas le dernier moment et soumettez d'ici le 9 Juin pour avoir une chance d'être parmi nos "top speakers" !
 
 ![](/images/posts/cfp2.jpg)
 
