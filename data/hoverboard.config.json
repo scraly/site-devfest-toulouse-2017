@@ -46,6 +46,9 @@
     }, {
         "route": "team",
         "permalink": "/team/"
+    }, {
+        "route": "faq",
+        "permalink": "/faq/"
     }],
     "social": [{
         "name": "twitter",
@@ -146,6 +149,14 @@
             "headerSettings": {
                 "backgroundColor": "#673ab7",
                 "backgroundImage": "https://lh3.googleusercontent.com/uKVdbOzfW2ZjhXPQRo9QsnjSUOD6Xuau0xplOhDMW97LIHDaSH5Mm_-OFHypD1nXpB3dIHGKLdjDCZkG-hP71MtrYDdamruDo6-EQi87-8QeJmvqVenN8iCixFgF5nSrqJFzACPYx07Bq4NSyjtpSm7BDG5YQqvoUM3aFHJ0hpoRCJ2PxDtMARjABgcmjWmuaPY4FR_65YZWa8eqIRP6tczk6he5RZJk3mXzZvr3w7_s0drfMx4WGknObwr_6iUFoUlEKQ1mME4Qq5cJyiyGyZ70cGvhrZQBdQL51IAUW4QzkBVkuIx8r392zy8bXBnEaP7-G78iGb0_DWPAEScMt83x0PsfzxzeYBGNy2j1DS7Lxx4FX8b2LIvblOiqzuLhr6Qr0dnr2Nf85lsYNJOVYgdBggotXq_K6h4CTU7AGbyRZcymDiyldTelk3Im281y_OpJpJ6YhGXIYLDQZtS-j5Sd4KVz3ZUKBJFK8A4tP-eWRKbWO_Jqw1lLhHlQcB8Mlu11kt6K7I3MaQ0Z0nPGpZTbeCd1n2tb9m91YV_hoHZ7PTUGXJ7R-5Il2tOomi_BhNhvjuYlzVpHh8CNjPto97kTJurTFGyCmGpQJ52gyNnP6QROQcI9ffIWQAnCQTrhNsFtU28vTbJrnxoBIKRuS6tDMQNLECdO4xh7LHZVyE4=w874-h492-no",
+                "fontColor": "#fff",
+                "tabBarColor": "#fff"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "headerSettings": {
+                "backgroundColor": "#673ab7",
                 "fontColor": "#fff",
                 "tabBarColor": "#fff"
             }
