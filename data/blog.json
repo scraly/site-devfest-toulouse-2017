@@ -30,4 +30,12 @@
     "secondaryColor": "#455a64",
     "image": "/images/posts/2017-06-03-devfest_website/hoverboard.png",
     "brief": "Nous souhaitons vous faire découvrir le projet Hoverboard qui est un projet OpenSource nous permettant d'avoir un site web de qualité !"
+} , {
+    "id": "annonce-speakers",
+    "title": "Liste des premiers speakers sélectionnés",
+    "posted": "2017-06-18",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/posts/annonce.jpg",
+    "brief": "Des heures de délibération acharnée sur fonds de petits fours."
 }]
