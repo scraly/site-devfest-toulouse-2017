@@ -6,7 +6,7 @@ Le développement logiciel est un sujet très vaste et notre comité de sélecti
 
 Le DevFest s'inscrit dans un [cadre international](https://developers.google.com/events/devfest/) et est organisé en partenariat avec Google.
 
-## Ou et quand aura lieu le DevFest ?
+## Où et quand aura lieu le DevFest ?
 
 Le DevFest Toulouse 2017 a lieu le 28 Septembre au Mega CGR de Blagnac.
 
@@ -44,9 +44,9 @@ Pour rendre tout cela possible, une [équipe de bénévoles](https://devfesttoul
 
 Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://devfest-toulouse.cfp.io) qui est ouvert du 9 Mai au 14 Juillet.
 
-Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance. Que vous présentiez un talk seul ou en duo, chaque conférencier à son entrée offerte.
+Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance. Que vous présentiez un talk seul ou en duo, chaque conférencier a son entrée offerte.
 
-Si votre sujet n'a pas encore été accepté, nous vous gardons une place au taif early-bird.
+Si votre sujet n'a pas encore été accepté, nous vous gardons une place au tarif early-bird.
 
 ## Est-ce que l'on peut soumettre un talk a plusieurs ?
 
