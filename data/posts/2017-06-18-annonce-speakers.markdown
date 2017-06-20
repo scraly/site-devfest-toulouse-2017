@@ -12,6 +12,7 @@ Roulements de tambour, voici la liste tant attendue (sans aucun ordre particulie
 * Sylvain Wallez - La boîte aux lettres connectée, pour être averti quand le facteur est passé
 * Nicolas De Loof - Quand Internet sera gouvernée par les |chats> de Shrödinger
 * Wassim Chegham - Ok Google, is there any presentations about ChatBots?
+* Guillaume Laforge - Ok Google, is there any presentations about ChatBots?
 * Emmanuel DEMEY - Il n'y a pas que Angular, React ou VueJS dans la vie
 * Mathias ORTNER - Deep learning for satellite image processing, lessons learned
 
