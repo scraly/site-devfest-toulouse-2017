@@ -52,6 +52,10 @@
     }, {
         "route": "faq",
         "permalink": "/faq/"
+    }, {
+        "route": "jobs",
+        "permalink": "https://taleez.com/careers/devfesttoulouse",
+        "external": true
     }],
     "social": [{
         "name": "twitter",
@@ -163,6 +167,9 @@
                 "fontColor": "#fff",
                 "tabBarColor": "#fff"
             }
+        },
+        "jobs": {
+            "title": "Jobs"
         }
     }
 }
