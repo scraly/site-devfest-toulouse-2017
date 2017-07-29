@@ -1,587 +1,1398 @@
 {
-  "partners" : [ {
-    "logos" : [ {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
-      "width" : 170
-    } ],
-    "title" : "Platinium"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "https://devfesttoulouse.fr/images/partners/insidegroup.jpg",
-      "name" : "Inside Group",
-      "url" : "https://insidegroup.fr/fr/",
-      "width" : 170
-    }, {
-      "logoUrl" : "https://www.cirruseo.com/statics/images/logo.png",
-      "name" : "Cirruséo",
-      "url" : "https://www.cirruseo.com/"
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
-      "width" : 170
-    } ],
-    "title" : "Or"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/partners/toptal.png",
-      "name" : "Toptal",
-      "url" : "https://www.toptal.com/#select-just-supreme-hackers"
-    }, {
-      "logoUrl" : "../images/partners/livingobjects.png",
-      "name" : "Living Objects",
-      "url" : "http://livingobjects.com/"
-    }, {
-      "logoUrl" : "https://www.squad.fr/static/images/theme/logo_blue.png",
-      "name" : "Squad",
-      "url" : "https://www.squad.fr"
-    }, {
-      "logoUrl" : "https://devfesttoulouse.fr/images/partners/docdoku.png",
-      "name" : "DocDoku",
-      "url" : "https://www.docdoku.com/"
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "",
-      "url" : ""
-    } ],
-    "title" : "Argent"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/partners/occitech.png",
-      "name" : "Occitech",
-      "url" : "https://www.occitech.fr/",
-      "width" : 170
-    }, {
-      "logoUrl" : "../images/partners/adveez.png",
-      "name" : "Adveez",
-      "url" : "http://www.adveez.fr/",
-      "width" : 170
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
-      "width" : 170
-    }, {
-      "logoUrl" : "../images/partners/sponsor-icon.png",
-      "name" : "Vous ?",
-      "url" : "",
-      "width" : 170
-    } ],
-    "title" : "Soutien"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/partners/logo_programmez.svg",
-      "name" : "Programmez! magazine",
-      "url" : "http://www.programmez.com/",
-      "width" : 170
-    }, {
-      "logoUrl" : "../images/partners/cpu.png",
-      "name" : "CPU",
-      "url" : "http://cpu.pm",
-      "width" : 170
-    } ],
-    "title" : "Médias"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "https://pbs.twimg.com/profile_images/809415039086104576/cHNQxOPv.jpg",
-      "name" : "GDG Taug",
-      "url" : "http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/"
-    }, {
-      "logoUrl" : "https://2016.devfesttoulouse.fr/images/partners/tds.jpeg",
-      "name" : "Toulouse Data Science",
-      "url" : "http://www.meetup.com/fr-FR/Tlse-Data-Science/"
-    }, {
-      "logoUrl" : "https://2016.devfesttoulouse.fr/images/partners/toulouse_jug.png",
-      "name" : "Toulouse JUG",
-      "url" : "http://toulousejug.org/"
-    }, {
-      "logoUrl" : "https://2016.devfesttoulouse.fr/images/partners/logoDuchessFrance.svg",
-      "name" : "Duchess France",
-      "url" : "http://www.duchess-france.org/"
-    }, {
-      "logoUrl" : "https://2016.devfesttoulouse.fr/images/partners/toulousejs.png",
-      "name" : "Toulouse JS",
-      "url" : "http://toulousejs.francejs.org/"
-    }, {
-      "logoUrl" : "https://pbs.twimg.com/profile_images/527945781773217792/iE8hiRS3.jpeg",
-      "name" : "Toulouse DevOps",
-      "url" : "http://toulousedevops.org/"
-    }, {
-      "logoUrl" : "",
-      "name" : "Toulouse DevOps",
-      "url" : ""
-    } ],
-    "title" : "Communautés impliquées"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "https://secure.meetupstatic.com/photos/event/3/d/5/d/global_460215709.jpeg",
-      "name" : "Visualisation des données",
-      "url" : "https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/"
-    }, {
-      "logoUrl" : "https://secure.meetupstatic.com/photos/event/5/c/6/a/global_449363658.jpeg",
-      "name" : "Swift Toulouse",
-      "url" : "https://www.meetup.com/fr-FR/Swift-Toulouse/"
-    }, {
-      "logoUrl" : "https://pbs.twimg.com/profile_images/693487622942003200/37wAwnVR_400x400.jpg",
-      "name" : "PitchMeUp",
-      "url" : "https://www.meetup.com/fr-FR/Pitch-Me-Up/"
-    }, {
-      "logoUrl" : "https://secure.meetupstatic.com/photos/event/7/f/1/c/600_458372540.jpeg",
-      "name" : "Software Craftsmanship",
-      "url" : "https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/"
-    }, {
-      "logoUrl" : "https://pbs.twimg.com/profile_images/1539980080/logo_digitalplace_OK_400x400.png",
-      "name" : "DigitalPlace",
-      "url" : "http://www.digitalplace.fr/"
-    }, {
-      "logoUrl" : "/images/partners/logo_dot_net toulouse.png",
-      "name" : "Meetup DotNet Toulouse",
-      "url" : "https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/"
-    } ],
-    "title" : "Communautés soutien"
-  } ],
-  "schedule" : [ {
-    "date" : "2017-09-28",
-    "dateReadable" : "28 Septembre",
-    "timeslots" : [ {
-      "endTime" : "10:00",
-      "sessions" : [ [ 100 ] ],
-      "startTime" : "09:00"
-    }, {
-      "endTime" : "10:15",
-      "sessions" : [ [ 100 ] ],
-      "startTime" : "10:00"
-    }, {
-      "endTime" : "11:00",
-      "sessions" : [ [ 100 ] ],
-      "startTime" : "10:15"
-    }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "11:00"
-    }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "11:50"
-    }, {
-      "endTime" : "14:00",
-      "sessions" : [ [ 100 ] ],
-      "startTime" : "12:30"
-    }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "14:00"
-    }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "14:50"
-    }, {
-      "endTime" : "16:00",
-      "sessions" : [ [ 100 ] ],
-      "startTime" : "15:30"
-    }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "16:00"
-    }, {
-      "endTime" : "17:30",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "16:50"
-    }, {
-      "endTime" : "18:20",
-      "sessions" : [ [ 100 ], [ 100 ], [ 100 ] ],
-      "startTime" : "17:40"
-    }, {
-      "endTime" : "22:30",
-      "sessions" : [ [ 100 ] ],
-      "startTime" : "18:30"
-    } ],
-    "tracks" : [ {
-      "title" : "Expo hall"
-    }, {
-      "title" : "Conference hall"
-    }, {
-      "title" : "Workshops hall"
-    } ]
-  } ],
-  "sessions" : {
-    "100" : {
-      "description" : "TBD",
-      "id" : 100,
-      "language" : "English",
-      "title" : "TBD"
+  "partners":[
+    {
+      "logos":[
+        {
+          "logoUrl":"../images/partners/continental.png",
+          "name":"Continental",
+          "url":"www.continental-corporation.com",
+          "width":170
+        },
+        {
+          "logoUrl":"https://2016.devfesttoulouse.fr/images/partners/TLSE_METROPOLE.jpg",
+          "name":"Toulouse Métropole",
+          "url":"http://www.toulouse-metropole.fr/",
+          "width":170
+        }
+      ],
+      "title":"Platinium"
+    },
+    {
+      "logos":[
+        {
+          "logoUrl":"../images/partners/insidegroup.jpg",
+          "name":"Inside Group",
+          "url":"https://insidegroup.fr/fr/",
+          "width":170
+        },
+        {
+          "logoUrl":"../images/partners/JFrog.png",
+          "name":"JFrog",
+          "url":"https://www.jfrog.com/"
+        },
+        {
+          "logoUrl":"../images/partners/viseo.png",
+          "name":"Viseo",
+          "url":"http://www.viseo.com/fr"
+        },
+        {
+          "logoUrl":"../images/partners/cirruseo.png",
+          "name":"Cirruséo",
+          "url":"https://www.cirruseo.com/",
+          "width":170
+        },
+        {
+          "logoUrl":"../images/partners/palo-it.png",
+          "name":"Palo IT",
+          "url":"http://fr.palo-it.com/",
+          "width":150
+        },
+        {
+          "logoUrl":"../images/partners/onepoint.png",
+          "name":"Onepoint",
+          "url":"https://www.groupeonepoint.com/#",
+          "width":150
+        },
+        {
+          "logoUrl":"../images/partners/gfi.png",
+          "name":"Gfi",
+          "url":"http://www.gfi.world/fr/",
+          "width":100
+        }
+      ],
+      "title":"Or"
+    },
+    {
+      "logos":[
+        {
+          "logoUrl":"../images/partners/toptal.png",
+          "name":"Toptal",
+          "url":"http://toptal.com/top-3-percent?utm_source=devfesttoulouseFR&utm_medium=logo&utm_campaign=sponsorships#select-just-supreme-hackers"
+        },
+        {
+          "logoUrl":"../images/partners/livingobjects.png",
+          "name":"Living Objects",
+          "url":"http://livingobjects.com/"
+        },
+        {
+          "logoUrl":"https://www.squad.fr/static/images/theme/logo_blue.png",
+          "name":"Squad",
+          "url":"https://www.squad.fr"
+        },
+        {
+          "logoUrl":"https://devfesttoulouse.fr/images/partners/docdoku.png",
+          "name":"DocDoku",
+          "url":"https://www.docdoku.com/"
+        },
+        {
+          "logoUrl":"../images/partners/geosys.jpg",
+          "name":"Geosys",
+          "url":"http://www.geosys.com/fr/"
+        },
+        {
+          "logoUrl":"../images/partners/sigfox.png",
+          "name":"Sigfox",
+          "url":"http://sigfox.com/"
+        },
+        {
+          "logoUrl":"../images/partners/pros-logo.svg",
+          "name":"Pros",
+          "url":"http://www.pros.com"
+        }
+      ],
+      "title":"Argent"
+    },
+    {
+      "logos":[
+        {
+          "logoUrl":"../images/partners/occitech.png",
+          "name":"Occitech",
+          "url":"https://www.occitech.fr/",
+          "width":170
+        },
+        {
+          "logoUrl":"../images/partners/adveez.png",
+          "name":"Adveez",
+          "url":"http://www.adveez.fr/",
+          "width":170
+        },
+        {
+          "logoUrl":"../images/partners/logo-Taleez-300x300.png",
+          "name":"Taleez",
+          "url":"https://taleez.com/r/#/app/home",
+          "width":70
+        },
+        {
+          "logoUrl":"../images/partners/sponsor-icon.png",
+          "name":"Vous ?",
+          "url":"https://goo.gl/qk3sCZ",
+          "width":70
+        }
+      ],
+      "title":"Soutien"
+    },
+    {
+      "logos":[
+        {
+          "logoUrl":"../images/partners/logo_programmez.svg",
+          "name":"Programmez! magazine",
+          "url":"http://www.programmez.com/",
+          "width":170
+        },
+        {
+          "logoUrl":"../images/partners/cpu.png",
+          "name":"CPU",
+          "url":"http://cpu.pm",
+          "width":170
+        }
+      ],
+      "title":"Médias"
+    },
+    {
+      "logos":[
+        {
+          "logoUrl":"https://pbs.twimg.com/profile_images/809415039086104576/cHNQxOPv.jpg",
+          "name":"GDG Taug",
+          "url":"http://www.meetup.com/fr-FR/Toulouse-Android-User-Group/"
+        },
+        {
+          "logoUrl":"https://2016.devfesttoulouse.fr/images/partners/tds.jpeg",
+          "name":"Toulouse Data Science",
+          "url":"http://www.meetup.com/fr-FR/Tlse-Data-Science/"
+        },
+        {
+          "logoUrl":"https://2016.devfesttoulouse.fr/images/partners/toulouse_jug.png",
+          "name":"Toulouse JUG",
+          "url":"http://toulousejug.org/"
+        },
+        {
+          "logoUrl":"https://2016.devfesttoulouse.fr/images/partners/logoDuchessFrance.svg",
+          "name":"Duchess France",
+          "url":"http://www.duchess-france.org/"
+        },
+        {
+          "logoUrl":"https://2016.devfesttoulouse.fr/images/partners/toulousejs.png",
+          "name":"Toulouse JS",
+          "url":"http://toulousejs.francejs.org/"
+        },
+        {
+          "logoUrl":"https://pbs.twimg.com/profile_images/527945781773217792/iE8hiRS3.jpeg",
+          "name":"Toulouse DevOps",
+          "url":"http://toulousedevops.org/"
+        }
+      ],
+      "title":"Communautés impliquées"
+    },
+    {
+      "logos":[
+        {
+          "logoUrl":"https://secure.meetupstatic.com/photos/event/3/d/5/d/global_460215709.jpeg",
+          "name":"Visualisation des données",
+          "url":"https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/"
+        },
+        {
+          "logoUrl":"https://secure.meetupstatic.com/photos/event/5/c/6/a/global_449363658.jpeg",
+          "name":"Swift Toulouse",
+          "url":"https://www.meetup.com/fr-FR/Swift-Toulouse/"
+        },
+        {
+          "logoUrl":"https://pbs.twimg.com/profile_images/693487622942003200/37wAwnVR_400x400.jpg",
+          "name":"PitchMeUp",
+          "url":"https://www.meetup.com/fr-FR/Pitch-Me-Up/"
+        },
+        {
+          "logoUrl":"https://secure.meetupstatic.com/photos/event/7/f/1/c/600_458372540.jpeg",
+          "name":"Software Craftsmanship",
+          "url":"https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/"
+        },
+        {
+          "logoUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAtfAAAAJDgzOWU2MzAxLWY0ZTEtNDE4ZC05MWVmLTRkZTk5ZDM2NWE2Yg.png",
+          "name":"DigitalPlace",
+          "url":"http://www.digitalplace.fr/"
+        },
+        {
+          "logoUrl":"/images/partners/logo_dot_net toulouse.png",
+          "name":"Meetup DotNet Toulouse",
+          "url":"https://www.meetup.com/fr-FR/Meetup-NET-Toulouse/"
+        }
+      ],
+      "title":"Communautés soutien"
+    }
+  ],
+  "schedule":[
+    {
+      "date":"2017-09-28",
+      "dateReadable":"28 Septembre",
+      "timeslots":[
+        {
+          "endTime":"10:00",
+          "sessions":[
+            [
+              100
+            ]
+          ],
+          "startTime":"09:00"
+        },
+        {
+          "endTime":"10:15",
+          "sessions":[
+            [
+              100
+            ]
+          ],
+          "startTime":"10:00"
+        },
+        {
+          "endTime":"11:00",
+          "sessions":[
+            [
+              100
+            ]
+          ],
+          "startTime":"10:15"
+        },
+        {
+          "endTime":"11:40",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"11:00"
+        },
+        {
+          "endTime":"12:30",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"11:50"
+        },
+        {
+          "endTime":"14:00",
+          "sessions":[
+            [
+              100
+            ]
+          ],
+          "startTime":"12:30"
+        },
+        {
+          "endTime":"14:40",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"14:00"
+        },
+        {
+          "endTime":"15:30",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"14:50"
+        },
+        {
+          "endTime":"16:00",
+          "sessions":[
+            [
+              100
+            ]
+          ],
+          "startTime":"15:30"
+        },
+        {
+          "endTime":"16:40",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"16:00"
+        },
+        {
+          "endTime":"17:30",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"16:50"
+        },
+        {
+          "endTime":"18:20",
+          "sessions":[
+            [
+              100
+            ],
+            [
+              100
+            ],
+            [
+              100
+            ]
+          ],
+          "startTime":"17:40"
+        },
+        {
+          "endTime":"22:30",
+          "sessions":[
+            [
+              100
+            ]
+          ],
+          "startTime":"18:30"
+        }
+      ],
+      "tracks":[
+        {
+          "title":"Expo hall"
+        },
+        {
+          "title":"Conference hall"
+        },
+        {
+          "title":"Workshops hall"
+        }
+      ]
+    }
+  ],
+  "sessions":{
+    "100":{
+      "description":"TBD",
+      "id":100,
+      "language":"English",
+      "title":"TBD"
     }
   },
-  "speakers" : [ {
-    "bio" : "I work as a R&D expert, in the field of satellite image processing. I am piloting a small team working on deep learning and cloud aspects within Airbus Defence and Space. Over the past decade, I have been involved in numerous technical problems, all related to the processing of large satellite images. Our main goal is to bring new processing technologies and algorithm into production. It all started with a master in applied mathematics, a PhD and a post doc on image and signal processing.",
-    "company" : "Airbus Defence and space",
-    "country" : "France",
-    "featured" : true,
-    "id" : 0,
-    "name" : "Mathias ORTNER",
-    "photoUrl" : "/images/people/ortner.png",
-    "shortBio" : "I work as a R&D expert, in the field of satellite image processing.",
-    "tags" : [ "IA", "English" ],
-    "title" : "R&D expert"
-  }, {
-    "bio" : "Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.",
-    "company" : "Containous",
-    "country" : "France",
-    "featured" : true,
-    "id" : 1,
-    "name" : "Emile Vauge",
-    "photoUrl" : "/images/people/vauge.png",
-    "shortBio" : "Creator of traefik.io, Emile is developer and founder of containo.us.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/emilevauge/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/emilevauge/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Cloud", "Traefik", "Docker", "Kubernetes" ],
-    "title" : "Creator of traefik.io"
-  }, {
-    "bio" : "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation. Il a passé 10 ans dans la Silicon Valley, où il a travaillé pour des startups et des grosses sociétés et où il a notamment participé à la rédaction de plusieurs standards des Web Services et des Objets Connectés. Il travaille en tant que consultant et développeur principalement autour du Cloud, des Applications Web et des Objets Connectés. Il accompagne également des startups dans le développement de prototypes/POCs techniques et en faisant le lien entre les fondateurs et les développeurs. Il est GDE Cloud (Google Developer Expert) et certifié Google Cloud Platform Qualified Systems Operations Professional. Il est aussi le co-fondateur du GDG Paris, du GDG Cloud Paris et de StartupVillage (http://www.startupvillage.fr)",
-    "company" : "Alto Labs",
-    "country" : "Paris, France",
-    "featured" : true,
-    "id" : 2,
-    "name" : "Alain Regnier",
-    "photoUrl" : "/images/people/regnier.jpg",
-    "shortBio" : "Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/altolabs/",
-      "name" : "Twitter"
-    } ],
-    "tags" : [ "Cloud", "Kubernetes", "GCE" ],
-    "title" : "Architecte Technique"
-  }, {
-    "bio" : "Développeuse Java passionnée, je suis particulièrement intéressée par les pratiques agiles et le bien-être au travail.",
-    "company" : "CodinGame",
-    "country" : "France",
-    "featured" : true,
-    "id" : 3,
-    "name" : "Charlotte Cavalier",
-    "photoUrl" : "/images/people/cavalier.jpg",
-    "shortBio" : "Développeuse Java passionnée, je suis particulièrement intéressée par les pratiques agiles et le bien-être au travail.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/cavalierch/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/CCavalier/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Languages", "Functional Programming", "English" ],
-    "title" : "Développeuse Java passionnée"
-  }, {
-    "bio" : "Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise - @ScalaIO_FR member - @MixIT_Lyon member - Solutions engineer @GitHub",
-    "company" : "",
-    "country" : "France",
-    "featured" : true,
-    "id" : 4,
-    "name" : "Philippe Charrière",
-    "photoUrl" : "/images/people/charriere.jpg",
-    "shortBio" : "Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/k33g_org/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/k33g/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Cloud", "Battle Star", "Vert.x" ],
-    "title" : "Golo tech-evangelist-dev-relation-advocate"
-  }, {
-    "bio" : "Architecte et développeur passionné. A travaillé comme architecte, CTO et leader technique dans plusieurs startups. Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot. Bref, full-stack. Membre de la fondation Apache.",
-    "company" : "",
-    "country" : "Toulouse",
-    "featured" : true,
-    "id" : 5,
-    "name" : "Sylvain Wallez",
-    "photoUrl" : "/images/people/wallez.png",
-    "shortBio" : "Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/bluxte/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/swallez/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "IOT", "Arduino" ],
-    "title" : "Architecte et développeur passionné"
-  }, {
-    "bio" : "Hacker & DockerCaptain",
-    "company" : "CloudBees",
-    "country" : "France",
-    "featured" : true,
-    "id" : 6,
-    "name" : "Nicolas De Loof",
-    "photoUrl" : "/images/people/deloof.png",
-    "shortBio" : "Hacker & DockerCaptain",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/ndeloof/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/ndeloof/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "WTF", "Shrödinger", "Quantic computing" ],
-    "title" : "Hacker & DockerCaptain"
-  }, {
-    "bio" : "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate that spends most of his time working on production apps, helping developers write better code and provide training on mastering Web technologies (Angular 2+, Polymer, PWA, Web Components...). He enjoys writing technical articles, meeting developers at events, speaking at conferences and contributing to open source projects. Wassim loves the Web Platform and works hard to move it forward",
-    "company" : "SFEIR",
-    "country" : "France",
-    "featured" : true,
-    "id" : 7,
-    "name" : "Wassim Chegham",
-    "photoUrl" : "/images/people/chegham.jpg",
-    "shortBio" : "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate that spends most of his time working on production apps",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/manekinekko/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/manekinekko/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Cloud", "Chatbot" ],
-    "title" : "Developer Advocate"
-  }, {
-    "bio" : "Consultant et Formateur Web chez Zenika Lille depuis avril 2015. Je suis spécialisé dans AngularJS / Angular 2 / TypeScript et l'Accessibilité Web. Speaker à ses heures perdues. Aime également les bières (et oui quand on vient de Lille c'est normal...), le Jazz et la Domotique. Plusieurs expériences en tant que conférencier, notamment depuis septembre 2015 autour du sujet Angular2. - ESLint au Jug Summer Camp et ChtiJS - Angular 2 : ChtiJUG, LyonJS, GDG Paris, GDG Nantes, Meetup AngularJS Grenoble, Devoxx, RivieraDev, Bdx.io, DevFest Nantes, Codeurs en Seine",
-    "company" : "Zenika",
-    "country" : "France",
-    "featured" : true,
-    "id" : 8,
-    "name" : "Emmanuel DEMEY",
-    "photoUrl" : "/images/people/demey.jpg",
-    "shortBio" : "Consultant et Formateur Web chez Zenika Lille depuis avril 2015.",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/EmmanuelDemey/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/Gillespie59/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Web", "Inferno", "Marko", "Preact" ],
-    "title" : "Consultant et Formateur Web"
-  } ],
-  "team" : [ {
-    "members" : [ {
-      "name" : "Julien Del Rio",
-      "photoUrl" : "/images/people/julien_delrio.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/JulienDelRio",
-        "name" : "Twitter"
-      } ],
-      "title" : "GDG Toulouse"
-    }, {
-      "name" : "Emmanuel Vinas",
-      "photoUrl" : "/images/people/emmanuel_vinas.jpeg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/EmmanuelVinas",
-        "name" : "Twitter"
-      } ],
-      "title" : "GDG Toulouse"
-    }, {
-      "name" : "Kevin Davin",
-      "photoUrl" : "/images/people/kevin_davin.png",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+KevinDavin",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/davinkevin",
-        "name" : "Twitter"
-      } ],
-      "title" : "GDG Toulouse & Toulouse JUG"
-    }, {
-      "name" : "Aurélie Vache",
-      "photoUrl" : "/images/people/aurelie_vache.png",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://www.twitter.com/aurelievache",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://scraly.com/",
-        "name" : "Site"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/aurelievache",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/scraly",
-        "name" : "Github"
-      } ],
-      "title" : "Duchess France"
-    }, {
-      "name" : "Julien Renaux",
-      "photoUrl" : "/images/people/julien_renaux.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/julienrenaux",
-        "name" : "Twitter"
-      } ],
-      "title" : "GDG Toulouse & Angular Toulouse"
-    }, {
-      "name" : "Maxime Pawlak",
-      "photoUrl" : "/images/people/maxime_pawlak.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Maxime_Pawlak",
-        "name" : "Twitter"
-      } ],
-      "title" : "GDG Toulouse"
-    }, {
-      "name" : "Alexia Audevart",
-      "photoUrl" : "https://www.ekito.fr/img/team/aaudevart.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://www.twitter.com/aaudevart",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/aaudevart",
-        "name" : "Github"
-      } ],
-      "title" : "Toulouse Data Science"
-    }, {
-      "name" : "Aurélien Baumann",
-      "photoUrl" : "/images/people/aurelien_baumann.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/kendo5731",
-        "name" : "Twitter"
-      } ],
-      "title" : "GDG Toulouse"
-    }, {
-      "name" : "Michaël Bitard",
-      "photoUrl" : "/images/people/michael_bitard.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/bitardmichael",
-        "name" : "Twitter"
-      } ],
-      "title" : "Electron liiiibre"
-    }, {
-      "name" : "Didier Plaindoux",
-      "photoUrl" : "/images/people/didier_plaindoux.jpeg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dplaindoux",
-        "name" : "Twitter"
-      } ],
-      "title" : "Toulouse JUG"
-    }, {
-      "name" : "Maxime Warnier",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/742442510891552768/elSWtNyX_400x400.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/maxdow",
-        "name" : "Twitter"
-      } ],
-      "title" : "Toulouse JS"
-    }, {
-      "name" : "Lionel Porcheron",
-      "photoUrl" : "/images/people/lionel_porcheron.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/lporcheron",
-        "name" : "Twitter"
-      } ],
-      "title" : "Toulouse DevOps"
-    }, {
-      "name" : "Guilhem De Miollis",
-      "photoUrl" : "/images/people/guilhem_demiollis.jpg",
-      "title" : "GDG Toulouse"
-    }, {
-      "name" : "Vincent Ferries",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/697834407407849472/bzv1VZJm_400x400.jpg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/VincentFERRIES",
-        "name" : "Twitter"
-      } ],
-      "title" : "Toulouse JUG"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Igor Laborie",
-      "photoUrl" : "https://pbs.twimg.com/profile_images/3404066863/94e02f3bca9b038c4546f4e42ed05bc6.jpeg",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ilaborie",
-        "name" : "Twitter"
-      } ],
-      "title" : ""
-    } ],
-    "title" : "Comité CFP"
-  } ],
-  "tickets" : {
-    "elements" : [ {
-      "currency" : "€",
-      "ends" : "14 Juin",
-      "info" : "30 premières places",
-      "name" : "Blind Bird",
-      "price" : 30,
-      "soldOut" : true,
-      "starts" : "9 Mai"
-    }, {
-      "currency" : "€",
-      "ends" : "21 Septembre",
-      "info" : "Limité a 70 places",
-      "name" : "Early Bird",
-      "price" : 40,
-      "soldOut" : false,
-      "starts" : "14 Juin"
-    }, {
-      "currency" : "€",
-      "ends" : "21 Septembre",
-      "name" : "Normal",
-      "price" : 50,
-      "soldOut" : false,
-      "starts" : "14 Juin"
-    } ],
-    "url" : "http://bit.ly/devfesttoulouse-2017-billetterie"
+  "speakers":[
+    {
+      "bio":"I work as a R&D expert, in the field of satellite image processing. I am piloting a small team working on deep learning and cloud aspects within Airbus Defence and Space. Over the past decade, I have been involved in numerous technical problems, all related to the processing of large satellite images. Our main goal is to bring new processing technologies and algorithm into production. It all started with a master in applied mathematics, a PhD and a post doc on image and signal processing.",
+      "company":"Airbus Defence and space",
+      "country":"Toulouse, France",
+      "featured":true,
+      "id":0,
+      "name":"Mathias ORTNER",
+      "photoUrl":"/images/speakers/mathias-ortner.png",
+      "shortBio":"I work as a R&D expert, in the field of satellite image processing.",
+      "tags":[
+        "IA",
+        "English"
+      ],
+      "title":"R&D expert"
+    },
+    {
+      "bio":"Creator of traefik.io, Emile is developer and founder of containo.us. He has more than 10 years experience developing applications for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.",
+      "company":"Containous",
+      "country":"Lyon, France",
+      "featured":true,
+      "id":1,
+      "name":"Emile Vauge",
+      "photoUrl":"/images/speakers/emile-vauge.png",
+      "shortBio":"Creator of traefik.io, Emile is developer and founder of containo.us.",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/emilevauge/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/emilevauge/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Cloud",
+        "Traefik",
+        "Docker",
+        "Kubernetes"
+      ],
+      "title":"Creator of traefik.io"
+    },
+    {
+      "bio":"Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation. Il a passé 10 ans dans la Silicon Valley, où il a travaillé pour des startups et des grosses sociétés et où il a notamment participé à la rédaction de plusieurs standards des Web Services et des Objets Connectés. Il travaille en tant que consultant et développeur principalement autour du Cloud, des Applications Web et des Objets Connectés. Il accompagne également des startups dans le développement de prototypes/POCs techniques et en faisant le lien entre les fondateurs et les développeurs. Il est GDE Cloud (Google Developer Expert) et certifié Google Cloud Platform Qualified Systems Operations Professional. Il est aussi le co-fondateur du GDG Paris, du GDG Cloud Paris et de StartupVillage (http://www.startupvillage.fr)",
+      "company":"Alto Labs",
+      "country":"Paris, France",
+      "featured":true,
+      "id":2,
+      "name":"Alain Regnier",
+      "photoUrl":"/images/speakers/alain-regnier.jpg",
+      "shortBio":"Alain Regnier est Architecte Technique et Entrepreneur passionné d’innovation.",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/altolabs/",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+        "Cloud",
+        "Kubernetes",
+        "GCE"
+      ],
+      "title":"Architecte Technique"
+    },
+    {
+      "bio":"Développeuse Java passionnée, je suis particulièrement intéressée par les pratiques agiles et le bien-être au travail.",
+      "company":"CodinGame",
+      "country":"Montpellier, France",
+      "featured":true,
+      "id":3,
+      "name":"Charlotte Cavalier",
+      "photoUrl":"/images/speakers/charlotte-cavalier.jpg",
+      "shortBio":"Développeuse Java passionnée, je suis particulièrement intéressée par les pratiques agiles et le bien-être au travail.",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/cavalierch/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/CCavalier/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Languages",
+        "Functional Programming",
+        "English"
+      ],
+      "title":"Développeuse Java passionnée"
+    },
+    {
+      "bio":"Tech Evangelist + CSO @Clever_Cloud - Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise - @ScalaIO_FR member",
+      "company":"",
+      "country":"Lyon, France",
+      "featured":true,
+      "id":4,
+      "name":"Philippe Charrière",
+      "photoUrl":"/images/speakers/philippe-charriere.jpg",
+      "shortBio":"Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/k33g_org/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/k33g/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Cloud",
+        "Battle Star",
+        "Vert.x"
+      ],
+      "title":"Golo tech-evangelist-dev-relation-advocate"
+    },
+    {
+      "bio":"Architecte et développeur passionné. A travaillé comme architecte, CTO et leader technique dans plusieurs startups. Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot. Bref, full-stack. Membre de la fondation Apache.",
+      "company":"",
+      "country":"Toulouse, France",
+      "featured":true,
+      "id":5,
+      "name":"Sylvain Wallez",
+      "photoUrl":"/images/speakers/sylvain-wallez.png",
+      "shortBio":"Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot.",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/bluxte/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/swallez/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "IOT",
+        "Arduino"
+      ],
+      "title":"Architecte et développeur passionné"
+    },
+    {
+      "bio":"Hacker & DockerCaptain",
+      "company":"CloudBees",
+      "country":"Rennes, France",
+      "featured":true,
+      "id":6,
+      "name":"Nicolas De Loof",
+      "photoUrl":"/images/speakers/nicolas-de-loof.jpg",
+      "shortBio":"Hacker & DockerCaptain",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/ndeloof/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/ndeloof/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "WTF",
+        "Shrödinger",
+        "Quantic computing"
+      ],
+      "title":"Hacker & DockerCaptain"
+    },
+    {
+      "bio":"Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate that spends most of his time working on production apps, helping developers write better code and provide training on mastering Web technologies (Angular 2+, Polymer, PWA, Web Components...). He enjoys writing technical articles, meeting developers at events, speaking at conferences and contributing to open source projects. Wassim loves the Web Platform and works hard to move it forward",
+      "company":"SFEIR",
+      "country":"Paris, France",
+      "featured":true,
+      "id":7,
+      "name":"Wassim Chegham",
+      "photoUrl":"/images/speakers/wassim-chegham.jpg",
+      "shortBio":"Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate that spends most of his time working on production apps",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/manekinekko/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/manekinekko/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Cloud",
+        "Chatbot"
+      ],
+      "title":"Developer Advocate"
+    },
+    {
+      "bio":"Consultant et Formateur Web chez Zenika Lille depuis avril 2015. Je suis spécialisé dans AngularJS / Angular 2 / TypeScript et l'Accessibilité Web. Speaker à ses heures perdues. Aime également les bières (et oui quand on vient de Lille c'est normal...), le Jazz et la Domotique. Plusieurs expériences en tant que conférencier, notamment depuis septembre 2015 autour du sujet Angular2. - ESLint au Jug Summer Camp et ChtiJS - Angular 2 : ChtiJUG, LyonJS, GDG Paris, GDG Nantes, Meetup AngularJS Grenoble, Devoxx, RivieraDev, Bdx.io, DevFest Nantes, Codeurs en Seine",
+      "company":"Zenika",
+      "country":"Lille, France",
+      "featured":true,
+      "id":8,
+      "name":"Emmanuel DEMEY",
+      "photoUrl":"/images/speakers/emmanuel-demey.jpg",
+      "shortBio":"Consultant et Formateur Web chez Zenika Lille depuis avril 2015.",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/EmmanuelDemey/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/Gillespie59/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Web",
+        "Inferno",
+        "Marko",
+        "Preact"
+      ],
+      "title":"Consultant et Formateur Web"
+    },
+    {
+      "bio":"Le jour, Guillaume Laforge est Developer Advocate chez Google, sur les solutions cloud, et de nuit, il reprends sa casquette de contributeur au projet Apache Groovy. Guillaume est également un des membres du podcast Les Cast Codeurs",
+      "company":"Google",
+      "country":"Paris, France",
+      "featured":true,
+      "id":9,
+      "name":"Guillaume Laforge",
+      "photoUrl":"/images/speakers/guillaume-laforge.jpeg",
+      "shortBio":"Developer Advocate chez Google.",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/glaforge/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/glaforge/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Cloud",
+        "Chatbot"
+      ],
+      "title":"Developer Advocate"
+    },
+    {
+      "bio":"Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a une quinzaine d'années déjà. Passionné d'informatique, dans laquelle il est tombé depuis tout petit, il a découvert Java en 1997 et depuis il n'a pas arrêté de bosser autour. Après quelques années comme architecte technique au Crédit Mutuel Arkea, Horacio travaille actuellement à Cityzen Data, éditeurs de Warp10, plateforme open source pour les données de capteurs. Il est aussi leader et cofondateur du FinistJUG, le JUG francophone le plus proche de la Silicon Valley. Passionné par le développement web et tout ce qui gravite autour des composants web, Horacio a été nommé Google Developer Expert (GDE) en Web Technologies et Polymer.",
+      "company":"Cityzen Data",
+      "country":"Brest, France",
+      "featured":true,
+      "id":10,
+      "name":"Horacio Gonzalez",
+      "photoUrl":"/images/speakers/horacio-gonzalez.jpg",
+      "shortBio":"Leader et cofondateur du FinistJUG",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/LostInBrittany/",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/LostInBrittany/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Web",
+        "Polymer",
+        "Web Components",
+        "Mixité"
+      ],
+      "title":"GDE Polymer"
+    },
+    {
+      "bio":"Machine Learner au sein de l'équipe AI de Continental Digital Services France.",
+      "company":"Continental",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":11,
+      "name":"Samia Drappeau",
+      "photoUrl":"/images/speakers/samia-drappeau.jpg",
+      "shortBio":"Machine Learner au sein de l'équipe AI de Continental Digital Services France",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/samiadrappeau",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/samastro/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "bio":"My day to day my mission is to help developers to create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !",
+      "country":"France",
+      "featured":false,
+      "id":12,
+      "name":"Olivier Leplus",
+      "photoUrl":"/images/speakers/olivier-leplus.jpeg",
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/olivierleplus",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/tagazok/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "bio":"Web developper doing... you know... stuff with a keyboard and strange characters on the big internet using coffee as fuel and spending too much time waiting for something to compile.",
+      "company":"Nomalab",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":13,
+      "name":"Paul Dijou",
+      "photoUrl":"/images/speakers/paul-dijou.jpeg",
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/paul_dijou",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/pauldijou/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "bio":"Architecte Big Data @ Continental Digital Services France (CDSF). Agiliste convaincu et passionné. 20 ans d'expérience avec une combinaison de développement, de conseil et de business development. En ce moment je m'intéresse particulièrement aux technologies du Big Data, de l'IoT et du Cloud. Avec les équipes de CDSF qui grandissent en permanence nous travaillons à imaginer, développer et opérer de nouveaux services autour de la voiture connectée. Rejoignez-nous!",
+      "company":"Continental",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":14,
+      "name":"Olivier Flebus",
+      "photoUrl":"/images/speakers/olivier-flebus.jpeg",
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/olivierflebus",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":15,
+      "name":"Bill Metangmo Tsobze",
+      "photoUrl":"/images/speakers/bill-metangmo-tsobze.jpeg",
+      "company":"BULL SAS",
+      "bio":"R&D Data engineer - Passionate about designing complex distributed sytems :).",
+      "country":"Grenoble, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/BillMetangmo",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":16,
+      "name":"Frederic Cabestre",
+      "photoUrl":"/images/speakers/frederic-cabestre.png",
+      "company":"Easy Mile",
+      "bio":"Développeur, tendance «software craftman». Depuis longtemps attiré par les langages et leur mise en œuvre. Grand amateur de programmation fonctionnelle, même quand ce n'était pas encore cool. Curieux des systèmes, surtout s'ils sont distribués.",
+      "country":"Toulouse, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/fcabestre",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/fcabestre/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":17,
+      "name":"Didier Girard",
+      "photoUrl":"/images/speakers/didier-girard.jpg",
+      "company":"SFEIR",
+      "bio":"Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
+      "country":"Paris, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/didiergirard",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":18,
+      "name":"Francois Teychene",
+      "photoUrl":"/images/speakers/francois-teychene.jpg",
+      "company":"TabMo",
+      "bio":"Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker. Ancien développeur (Java/Clojure/Python) et gestionnaire de build, j'ai passé le cap vers le Devops et me focus notamment Docker sur lequel j'aime tester de nouvelles choses et mettre en place des services pour les équipes avec lesquelles je travaille.",
+      "country":"Montpellier, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/fteychene",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/fteychene/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":19,
+      "name":"Florian Chauveau",
+      "photoUrl":"/images/speakers/florian-chauveau.jpeg",
+      "company":"Code-Troopers",
+      "bio":"Après être passé par une SSII et une startup j'ai créé avec plusieurs collègues et amis Code-Troopers à Tours. Depuis plus de 3 ans nous travaillons en tant que freelance sur les projets et les thèmes qui nous intéressent. Pour ma part c'est le développement Android qui occupe mes journées. La qualité du code et l'efficacité au travail sont les deux choses que j'ai apprises très tôt et que j'essaie d'appliquer au mieux au quotidien. Le partage reste l'un des meilleurs moyens d'apprendre c'est pour cela que je donne des cours à Polytech'Tours et que je cogère le GDG Tours.",
+      "country":"Tours, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/fteychene",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":20,
+      "name":"Boris-Wilfried Nyasse",
+      "photoUrl":"/images/speakers/boris-wilfried-nyasse.jpg",
+      "company":"MIPIH",
+      "bio":"Developer and self-entrereneur with a big interest for innovation. He actualy works as Agile Devops for a software publisher company and also worked as IT architect & CTO for few startups at Toulouse. Passionate technical multi-skills",
+      "country":"Toulouse, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/bwnyasse",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/bwnyasse/",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":21,
+      "name":"Tugdual Grall",
+      "photoUrl":"/images/speakers/tugdual-grall.jpeg",
+      "company":"MapR",
+      "bio":"Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise",
+      "country":"Nantes, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"http://twitter.com/tgrall",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/tgrall",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":22,
+      "name":"Jordan Grenat",
+      "photoUrl":"/images/speakers/jordan-grenat.jpg",
+      "company":"Viseo",
+      "bio":"Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes (frameworks front, Node.js, tooling, Elm, ...)",
+      "country":"Paris, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/JoGrenat",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/jgrenat",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":23,
+      "name":"Alex Danvy",
+      "photoUrl":"/images/speakers/alex-danvy.jpg",
+      "company":"Microsoft",
+      "bio":"Partage sa passion pour le développement. Amateur de robots et de pommes. Promoteur de l'informatique pour tous. Spécialiste de l'Internet of Things. Evangéliste chez Microsoft.",
+      "country":"France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/danvy",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/danvy",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":24,
+      "name":"Logan Mauzaize",
+      "photoUrl":"/images/speakers/logan-mauzaize.jpeg",
+      "company":"MonkeyPatch",
+      "bio":"Amateur de Java avant le diplôme, j'ai distribué mes conseils lors de mes missions (expert technique, dev leader) et sur les forums. Notamment sur Developpez.com, sur lequel je fais partie de l'équipe Java à la fois en tant que modérateur mais aussi rédacteur.",
+      "country":"Toulouse, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/loganmzz",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/loganmzz",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":25,
+      "name":"Olivier Philippot",
+      "photoUrl":"/images/speakers/olivier-philippot.jpg",
+      "company":"Greenspector",
+      "bio":"Olivier est CTO chez Greenspector. Il aime les technologies mais surtout les optimiser. En particulier sur Android et l'embarqué. Il est fortement engagé dans les actions de sensibilisation à l'efficience et l'éco-conception logicielle comme le Geen Code Lab Challenge. Speaker a Devoxx, Android Maker, Breizhcamp...",
+      "country":"Nantes, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/simplygreenit",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":26,
+      "name":"Alexis Tual",
+      "photoUrl":"/images/speakers/alexis-tual.jpg",
+      "company":"JFrog",
+      "bio":"Alexis est ingénieur solution chez JFrog, il participe aux activités liées à Artifactory, comme par exemple l'intégration d'Artifactory sur Apache Mesos. Dans l'épisode précédent, Alexis a été Ingénieur Software Craftsman pendant 11 ans dans le domaine de l'éducation sur des projets Java, Grails, Javascript mais a trempé aussi dans les projets DevOps.",
+      "country":"World",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/alex_tual",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/alextu",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":27,
+      "name":"Arnaud Giuliani",
+      "photoUrl":"/images/speakers/arnaud-giuliani.jpg",
+      "company":"ekito",
+      "bio":"Développeur Java/JEE pour l'industrie toulousaine depuis une dizaine d'années, plutôt branché trucs coté serveur (systèmes distribués, middleware...). J'ai repris goût pour le \"frontend\" grâce à Android. Depuis que je suis à ekito, je travaille beaucoup sur le dev mobile Android, tout en gardant un pied dans le back. En 2015 je découvre Kotlin, qui me permet d'arrêter d'écrire du Java et de mieux appréhender la programmation réactive. Kotlin est également le sujet central de mes présentations depuis 2016.",
+      "country":"Toulouse, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/arnogiu",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/arnaudgiuliani",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":27,
+      "name":"Vincent Ogloblinsky",
+      "photoUrl":"/images/speakers/vincent-ogloblinsky.jpg",
+      "company":"SII",
+      "bio":"Architecte logiciel frontend au sein d'une ESN rennaise, j'évolue entre architecture de projets web, formations, animations techniques, support client et expertise technique. Passionné par le \"grand\" domaine du développement web frontend, j'affectionne particulièrement coder en (Type||Java)script, débugger HTML5, découvrir la capacité grandissante du navigateur à se rapprocher des capteurs (GPS, bluetooth, etc...), et participer à des projets open-source.",
+      "country":"Strasbourg, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/vogloblinsky",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/vogloblinsky",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    },
+    {
+      "id":28,
+      "name":"Igor Laborie",
+      "photoUrl":"/images/speakers/igor-laborie.jpg",
+      "company":"MonkeyPatch",
+      "bio":"Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime aussi des rdv techniques au travers de ma société ou dans des meetings comme le Toulouse JUG, Software Craftsmanship Toulouse.",
+      "country":"Toulouse, France",
+      "featured":false,
+      "shortBio":"",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/ilaborie",
+          "name":"Twitter"
+        },
+        {
+          "icon":"github",
+          "link":"https://github.com/ilaborie",
+          "name":"GitHub"
+        }
+      ],
+      "tags":[
+
+      ]
+    }
+  ],
+  "team":[
+    {
+      "members":[
+        {
+          "name":"Julien Del Rio",
+          "photoUrl":"/images/people/julien_delrio.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/JulienDelRio",
+              "name":"Twitter"
+            }
+          ],
+          "title":"GDG Toulouse"
+        },
+        {
+          "name":"Emmanuel Vinas",
+          "photoUrl":"/images/people/emmanuel_vinas.jpeg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/EmmanuelVinas",
+              "name":"Twitter"
+            }
+          ],
+          "title":"GDG Toulouse"
+        },
+        {
+          "name":"Kevin Davin",
+          "photoUrl":"/images/people/kevin_davin.png",
+          "socials":[
+            {
+              "icon":"gplus",
+              "link":"https://plus.google.com/+KevinDavin",
+              "name":"Google+"
+            },
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/davinkevin",
+              "name":"Twitter"
+            }
+          ],
+          "title":"GDG Toulouse & Toulouse JUG"
+        },
+        {
+          "name":"Aurélie Vache",
+          "photoUrl":"/images/people/aurelie_vache.png",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://www.twitter.com/aurelievache",
+              "name":"Twitter"
+            },
+            {
+              "icon":"website",
+              "link":"http://scraly.com/",
+              "name":"Site"
+            },
+            {
+              "icon":"linkedin",
+              "link":"https://www.linkedin.com/in/aurelievache",
+              "name":"LinkedIn"
+            },
+            {
+              "icon":"github",
+              "link":"https://github.com/scraly",
+              "name":"Github"
+            }
+          ],
+          "title":"Duchess France"
+        },
+        {
+          "name":"Julien Renaux",
+          "photoUrl":"/images/people/julien_renaux.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/julienrenaux",
+              "name":"Twitter"
+            }
+          ],
+          "title":"GDG Toulouse & Angular Toulouse"
+        },
+        {
+          "name":"Maxime Pawlak",
+          "photoUrl":"/images/people/maxime_pawlak.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/Maxime_Pawlak",
+              "name":"Twitter"
+            }
+          ],
+          "title":"GDG Toulouse"
+        },
+        {
+          "name":"Alexia Audevart",
+          "photoUrl":"https://www.ekito.fr/img/team/aaudevart.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://www.twitter.com/aaudevart",
+              "name":"Twitter"
+            },
+            {
+              "icon":"github",
+              "link":"https://github.com/aaudevart",
+              "name":"Github"
+            }
+          ],
+          "title":"Toulouse Data Science"
+        },
+        {
+          "name":"Aurélien Baumann",
+          "photoUrl":"/images/people/aurelien_baumann.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/kendo5731",
+              "name":"Twitter"
+            }
+          ],
+          "title":"GDG Toulouse"
+        },
+        {
+          "name":"Michaël Bitard",
+          "photoUrl":"/images/people/michael_bitard.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/bitardmichael",
+              "name":"Twitter"
+            }
+          ],
+          "title":"Electron liiiibre"
+        },
+        {
+          "name":"Didier Plaindoux",
+          "photoUrl":"/images/people/didier_plaindoux.jpeg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/dplaindoux",
+              "name":"Twitter"
+            }
+          ],
+          "title":"Toulouse JUG"
+        },
+        {
+          "name":"Maxime Warnier",
+          "photoUrl":"https://pbs.twimg.com/profile_images/742442510891552768/elSWtNyX_400x400.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/maxdow",
+              "name":"Twitter"
+            }
+          ],
+          "title":"Toulouse JS"
+        },
+        {
+          "name":"Lionel Porcheron",
+          "photoUrl":"/images/people/lionel_porcheron.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/lporcheron",
+              "name":"Twitter"
+            }
+          ],
+          "title":"Toulouse DevOps"
+        },
+        {
+          "name":"Guilhem De Miollis",
+          "photoUrl":"/images/people/guilhem_demiollis.jpg",
+          "title":"GDG Toulouse"
+        },
+        {
+          "name":"Vincent Ferries",
+          "photoUrl":"https://pbs.twimg.com/profile_images/697834407407849472/bzv1VZJm_400x400.jpg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/VincentFERRIES",
+              "name":"Twitter"
+            }
+          ],
+          "title":"Toulouse JUG"
+        }
+      ],
+      "title":"Core Team"
+    },
+    {
+      "members":[
+        {
+          "name":"Igor Laborie",
+          "photoUrl":"https://pbs.twimg.com/profile_images/3404066863/94e02f3bca9b038c4546f4e42ed05bc6.jpeg",
+          "socials":[
+            {
+              "icon":"twitter",
+              "link":"https://twitter.com/ilaborie",
+              "name":"Twitter"
+            }
+          ],
+          "title":""
+        }
+      ],
+      "title":"Comité CFP"
+    }
+  ],
+  "tickets":{
+    "elements":[
+      {
+        "currency":"€",
+        "ends":"14 Juin",
+        "info":"30 premières places",
+        "name":"Blind Bird",
+        "price":30,
+        "soldOut":true,
+        "starts":"9 Mai"
+      },
+      {
+        "currency":"€",
+        "ends":"21 Septembre",
+        "info":"Limité a 70 places",
+        "name":"Early Bird",
+        "price":40,
+        "soldOut":true,
+        "starts":"14 Juin"
+      },
+      {
+        "currency":"€",
+        "ends":"21 Septembre",
+        "name":"Normal",
+        "price":50,
+        "soldOut":false,
+        "starts":"14 Juin"
+      }
+    ],
+    "url":"http://bit.ly/devfesttoulouse-2017-billetterie"
   },
-  "videos" : [ {
-    "speakers" : "Jakub Škvára",
-    "thumbnail" : "/images/sessions/116.JPG",
-    "title" : "Polymer vs other libraries",
-    "youtubeId" : "-UEURYYVCmg"
-  } ]
+  "videos":[
+    {
+      "speakers":"Jakub Škvára",
+      "thumbnail":"/images/sessions/116.JPG",
+      "title":"Polymer vs other libraries",
+      "youtubeId":"-UEURYYVCmg"
+    }
+  ]
 }
