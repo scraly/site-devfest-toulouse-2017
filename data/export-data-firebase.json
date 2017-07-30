@@ -219,184 +219,6 @@
       "title":"Communautés soutien"
     }
   ],
-  "schedule":[
-    {
-      "date":"2017-09-28",
-      "dateReadable":"28 Septembre",
-      "timeslots":[
-        {
-          "endTime":"10:00",
-          "sessions":[
-            [
-              100
-            ]
-          ],
-          "startTime":"09:00"
-        },
-        {
-          "endTime":"10:15",
-          "sessions":[
-            [
-              100
-            ]
-          ],
-          "startTime":"10:00"
-        },
-        {
-          "endTime":"11:00",
-          "sessions":[
-            [
-              100
-            ]
-          ],
-          "startTime":"10:15"
-        },
-        {
-          "endTime":"11:40",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"11:00"
-        },
-        {
-          "endTime":"12:30",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"11:50"
-        },
-        {
-          "endTime":"14:00",
-          "sessions":[
-            [
-              100
-            ]
-          ],
-          "startTime":"12:30"
-        },
-        {
-          "endTime":"14:40",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"14:00"
-        },
-        {
-          "endTime":"15:30",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"14:50"
-        },
-        {
-          "endTime":"16:00",
-          "sessions":[
-            [
-              100
-            ]
-          ],
-          "startTime":"15:30"
-        },
-        {
-          "endTime":"16:40",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"16:00"
-        },
-        {
-          "endTime":"17:30",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"16:50"
-        },
-        {
-          "endTime":"18:20",
-          "sessions":[
-            [
-              100
-            ],
-            [
-              100
-            ],
-            [
-              100
-            ]
-          ],
-          "startTime":"17:40"
-        },
-        {
-          "endTime":"22:30",
-          "sessions":[
-            [
-              100
-            ]
-          ],
-          "startTime":"18:30"
-        }
-      ],
-      "tracks":[
-        {
-          "title":"Expo hall"
-        },
-        {
-          "title":"Conference hall"
-        },
-        {
-          "title":"Workshops hall"
-        }
-      ]
-    }
-  ],
   "sessions":{
     "1556":{
       "id": 1556,
@@ -787,8 +609,7 @@
       "photoUrl":"/images/speakers/mathias-ortner.png",
       "shortBio":"I work as a R&D expert, in the field of satellite image processing.",
       "tags":[
-        "IA",
-        "English"
+        "IA"
       ],
       "title":"R&D expert"
     },
@@ -816,8 +637,7 @@
       "tags":[
         "Cloud",
         "Traefik",
-        "Docker",
-        "Kubernetes"
+        "Docker"
       ],
       "title":"Creator of traefik.io"
     },
@@ -867,8 +687,7 @@
       ],
       "tags":[
         "Languages",
-        "Functional Programming",
-        "English"
+        "Functional Programming"
       ],
       "title":"Développeuse Java passionnée"
     },
@@ -894,9 +713,9 @@
         }
       ],
       "tags":[
-        "Cloud",
-        "Battle Star",
-        "Vert.x"
+        "Functional Programming",
+        "Vert.x",
+        "GoloLang"
       ],
       "title":"Golo tech-evangelist-dev-relation-advocate"
     },
@@ -922,8 +741,9 @@
         }
       ],
       "tags":[
-        "IOT",
-        "Arduino"
+        "Scala",
+        "Agile",
+        "Méthodologie"
       ],
       "title":"Architecte et développeur passionné"
     },
@@ -951,7 +771,8 @@
       "tags":[
         "WTF",
         "Shrödinger",
-        "Quantic computing"
+        "Quantic computing",
+        "Jenkins"
       ],
       "title":"Hacker & DockerCaptain"
     },
@@ -977,6 +798,8 @@
         }
       ],
       "tags":[
+        "GDE",
+        "Angular",
         "Cloud",
         "Chatbot"
       ],
@@ -1034,7 +857,8 @@
       ],
       "tags":[
         "Cloud",
-        "Chatbot"
+        "Chatbot",
+        "Groovy"
       ],
       "title":"Developer Advocate"
     },
@@ -1089,7 +913,7 @@
         }
       ],
       "tags":[
-
+        "Machine Learning"
       ]
     },
     {
@@ -1099,7 +923,7 @@
       "id":255,
       "name":"Olivier Leplus",
       "photoUrl":"/images/speakers/olivier-leplus.jpeg",
-      "shortBio":"My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies !",
+      "shortBio":"My day to day my mission is to help developers create successful and quality apps",
       "socials":[
         {
           "icon":"twitter",
@@ -1113,11 +937,12 @@
         }
       ],
       "tags":[
-
+        "Web",
+        "PWA"
       ]
     },
     {
-      "shortBio":"Web developper doing... you know... stuff with a keyboard and strange characters on the big internet using coffee as fuel and spending too much time waiting for something to compile.",
+      "shortBio":"Web lover around the world",
       "bio":"Web developper doing... you know... stuff with a keyboard and strange characters on the big internet using coffee as fuel and spending too much time waiting for something to compile.",
       "company":"Nomalab",
       "country":"Toulouse, France",
@@ -1138,7 +963,7 @@
         }
       ],
       "tags":[
-
+        "Web"
       ]
     },
     {
@@ -1158,7 +983,9 @@
         }
       ],
       "tags":[
-
+        "Agilité",
+        "Cloud",
+        "AWS"
       ]
     },
     {
@@ -1178,7 +1005,7 @@
         }
       ],
       "tags":[
-
+        "Big-Data"
       ]
     },
     {
@@ -1203,7 +1030,9 @@
         }
       ],
       "tags":[
-
+        "Java",
+        "Sécurité",
+        "Craftman"
       ]
     },
     {
@@ -1223,7 +1052,9 @@
         }
       ],
       "tags":[
-
+        "Cloud",
+        "GCP",
+        "GDE"
       ]
     },
     {
@@ -1232,7 +1063,7 @@
       "photoUrl":"/images/speakers/francois-teychene.jpg",
       "company":"TabMo",
       "bio":"Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker. Ancien développeur (Java/Clojure/Python) et gestionnaire de build, j'ai passé le cap vers le Devops et me focus notamment Docker sur lequel j'aime tester de nouvelles choses et mettre en place des services pour les équipes avec lesquelles je travaille.",
-      "shortBio":"JUG Leader @montpellierjug, Docker enthusiast & speaker, Development passionate. I try things in Docker ecosystem and talk about it.",
+      "shortBio":"JUG Leader @montpellierjug, Docker enthusiast & speaker, Development passionate",
       "country":"Montpellier, France",
       "featured":false,
       "socials":[
@@ -1248,7 +1079,8 @@
         }
       ],
       "tags":[
-
+        "Devops",
+        "UX"
       ]
     },
     {
@@ -1268,7 +1100,9 @@
         }
       ],
       "tags":[
-
+        "IOS",
+        "Android",
+        "Devops"
       ]
     },
     {
@@ -1277,7 +1111,7 @@
       "photoUrl":"/images/speakers/boris-wilfried-nyasse.jpg",
       "company":"MIPIH",
       "bio":"Developer and self-entrereneur with a big interest for innovation. He actualy works as Agile Devops for a software publisher company and also worked as IT architect & CTO for few startups at Toulouse. Passionate technical multi-skills",
-      "shortBio":"Developer and self-entrereneur with a big interest for innovation. He actualy works as Agile Devops for a software publisher company and also worked as IT architect & CTO for few startups at Toulouse. Passionate technical multi-skills",
+      "shortBio":"#Dad & Passionate Agile DevOps/ Continuous Learner #web #softwareDev #devops #startup / @pick_school Co-Founder",
       "country":"Toulouse, France",
       "featured":false,
       "socials":[
@@ -1293,7 +1127,9 @@
         }
       ],
       "tags":[
-
+        "Dart",
+        "Flutter",
+        "Fuchsia"
       ]
     },
     {
@@ -1302,7 +1138,7 @@
       "photoUrl":"/images/speakers/tugdual-grall.jpeg",
       "company":"MapR",
       "bio":"Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise",
-      "shortBio":"Tugdual Grall, est Chief Technical Evangelist EMEA chez MapR. Il travaille avec les clients et les communautés de développeurs européennes, pour faciliter l’adoption de MapR, Hadoop et NoSQL. Avant de travailler chez MapR, “Tug”, était Technical Evangelist chez MongoDB et Couchbase. Tug a travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform Java/JavaEE d’Oracle. Tugdual est également co-fondateur du Nantes JUG (Java Users Group) qui réunit tous les mois depuis 2008 les développeurs et architectes de la région nantaise",
+      "shortBio":"Technical Evangelist @MapR Big Data / NoSQL / Streaming | @nantesjug leader | Slow Triathlete @resultri | Windsurfer",
       "country":"Nantes, France",
       "featured":false,
       "socials":[
@@ -1318,7 +1154,7 @@
         }
       ],
       "tags":[
-
+        "BigData"
       ]
     },
     {
@@ -1327,7 +1163,7 @@
       "photoUrl":"/images/speakers/jordan-grenat.jpg",
       "company":"Viseo",
       "bio":"Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes (frameworks front, Node.js, tooling, Elm, ...)",
-      "shortBio":"Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes (frameworks front, Node.js, tooling, Elm, ...)",
+      "shortBio":"Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes",
       "country":"Paris, France",
       "featured":false,
       "socials":[
@@ -1343,7 +1179,7 @@
         }
       ],
       "tags":[
-
+        "elm"
       ]
     },
     {
@@ -1352,7 +1188,7 @@
       "photoUrl":"/images/speakers/alex-danvy.jpg",
       "company":"Microsoft",
       "bio":"Partage sa passion pour le développement. Amateur de robots et de pommes. Promoteur de l'informatique pour tous. Spécialiste de l'Internet of Things. Evangéliste chez Microsoft.",
-      "shortBio":"Partage sa passion pour le développement. Amateur de robots et de pommes. Promoteur de l'informatique pour tous. Spécialiste de l'Internet of Things. Evangéliste chez Microsoft.",
+      "shortBio":"Human|Robot? DaftPunk! I'm a French working @Microsoft #IoT addict, software lover, technology enthusiast #cloud #windows #android #ios #vr #ar #ia #bots #food",
       "country":"France",
       "featured":false,
       "socials":[
@@ -1368,7 +1204,8 @@
         }
       ],
       "tags":[
-
+        "Azure",
+        "IoT"
       ]
     },
     {
@@ -1377,7 +1214,7 @@
       "photoUrl":"/images/speakers/logan-mauzaize.jpeg",
       "company":"MonkeyPatch",
       "bio":"Amateur de Java avant le diplôme, j'ai distribué mes conseils lors de mes missions (expert technique, dev leader) et sur les forums. Notamment sur Developpez.com, sur lequel je fais partie de l'équipe Java à la fois en tant que modérateur mais aussi rédacteur.",
-      "shortBio":"Amateur de Java avant le diplôme, j'ai distribué mes conseils lors de mes missions (expert technique, dev leader) et sur les forums. Notamment sur Developpez.com, sur lequel je fais partie de l'équipe Java à la fois en tant que modérateur mais aussi rédacteur.",
+      "shortBio":"Amateur de Java avant le diplôme, j'ai distribué mes conseils lors de mes missions (expert technique, dev leader) et sur les forums",
       "country":"Toulouse, France",
       "featured":false,
       "socials":[
@@ -1393,7 +1230,8 @@
         }
       ],
       "tags":[
-
+        "Java",
+        "Rust"
       ]
     },
     {
@@ -1402,7 +1240,7 @@
       "photoUrl":"/images/speakers/olivier-philippot.jpg",
       "company":"Greenspector",
       "bio":"Olivier est CTO chez Greenspector. Il aime les technologies mais surtout les optimiser. En particulier sur Android et l'embarqué. Il est fortement engagé dans les actions de sensibilisation à l'efficience et l'éco-conception logicielle comme le Geen Code Lab Challenge. Speaker a Devoxx, Android Maker, Breizhcamp...",
-      "shortBio":"Olivier est CTO chez Greenspector. Il aime les technologies mais surtout les optimiser. En particulier sur Android et l'embarqué. Il est fortement engagé dans les actions de sensibilisation à l'efficience et l'éco-conception logicielle comme le Geen Code Lab Challenge. Speaker a Devoxx, Android Maker, Breizhcamp...",
+      "shortBio":"CTO of @green_spector efficiency and eco-design of software #greenit #ecodesign #perfmatters",
       "country":"Nantes, France",
       "featured":false,
       "socials":[
@@ -1413,7 +1251,7 @@
         }
       ],
       "tags":[
-
+        "Green"
       ]
     },
     {
@@ -1422,7 +1260,7 @@
       "photoUrl":"/images/speakers/alexis-tual.jpg",
       "company":"JFrog",
       "bio":"Alexis est ingénieur solution chez JFrog, il participe aux activités liées à Artifactory, comme par exemple l'intégration d'Artifactory sur Apache Mesos. Dans l'épisode précédent, Alexis a été Ingénieur Software Craftsman pendant 11 ans dans le domaine de l'éducation sur des projets Java, Grails, Javascript mais a trempé aussi dans les projets DevOps.",
-      "shortBio":"Alexis est ingénieur solution chez JFrog, il participe aux activités liées à Artifactory, comme par exemple l'intégration d'Artifactory sur Apache Mesos. Dans l'épisode précédent, Alexis a été Ingénieur Software Craftsman pendant 11 ans dans le domaine de l'éducation sur des projets Java, Grails, Javascript mais a trempé aussi dans les projets DevOps.",
+      "shortBio":"Alexis est ingénieur solution chez JFrog, il participe aux activités liées à Artifactory, comme par exemple l'intégration d'Artifactory sur Apache Mesos",
       "country":"World",
       "featured":false,
       "socials":[
@@ -1438,7 +1276,8 @@
         }
       ],
       "tags":[
-
+        "Java",
+        "Cloud"
       ]
     },
     {
@@ -1447,7 +1286,7 @@
       "photoUrl":"/images/speakers/arnaud-giuliani.jpg",
       "company":"ekito",
       "bio":"Développeur Java/JEE pour l'industrie toulousaine depuis une dizaine d'années, plutôt branché trucs coté serveur (systèmes distribués, middleware...). J'ai repris goût pour le \"frontend\" grâce à Android. Depuis que je suis à ekito, je travaille beaucoup sur le dev mobile Android, tout en gardant un pied dans le back. En 2015 je découvre Kotlin, qui me permet d'arrêter d'écrire du Java et de mieux appréhender la programmation réactive. Kotlin est également le sujet central de mes présentations depuis 2016.",
-      "shortBio":"Développeur Java/JEE pour l'industrie toulousaine depuis une dizaine d'années, plutôt branché trucs coté serveur (systèmes distribués, middleware...). J'ai repris goût pour le \"frontend\" grâce à Android. Depuis que je suis à ekito, je travaille beaucoup sur le dev mobile Android, tout en gardant un pied dans le back. En 2015 je découvre Kotlin, qui me permet d'arrêter d'écrire du Java et de mieux appréhender la programmation réactive. Kotlin est également le sujet central de mes présentations depuis 2016.",
+      "shortBio":"Developer & Speaker -- Kotlin lover, do Mobile Apps & Backend stuffs  --  work at ekito",
       "country":"Toulouse, France",
       "featured":false,
       "socials":[
@@ -1463,7 +1302,7 @@
         }
       ],
       "tags":[
-
+        "Kotlin"
       ]
     },
     {
@@ -1472,7 +1311,7 @@
       "photoUrl":"/images/speakers/vincent-ogloblinsky.jpg",
       "company":"SII",
       "bio":"Architecte logiciel frontend au sein d'une ESN rennaise, j'évolue entre architecture de projets web, formations, animations techniques, support client et expertise technique. Passionné par le \"grand\" domaine du développement web frontend, j'affectionne particulièrement coder en (Type||Java)script, débugger HTML5, découvrir la capacité grandissante du navigateur à se rapprocher des capteurs (GPS, bluetooth, etc...), et participer à des projets open-source.",
-      "shortBio":"Architecte logiciel frontend au sein d'une ESN rennaise, j'évolue entre architecture de projets web, formations, animations techniques, support client et expertise technique. Passionné par le \"grand\" domaine du développement web frontend, j'affectionne particulièrement coder en (Type||Java)script, débugger HTML5, découvrir la capacité grandissante du navigateur à se rapprocher des capteurs (GPS, bluetooth, etc...), et participer à des projets open-source.",
+      "shortBio":"Frontend architect @sii_ouest • Trainer • Speaker • Father (👶👶👶) • In ❤ of (Type || Java)Script, Angular, HTML5 • Brittany - Rennes - France",
       "country":"Strasbourg, France",
       "featured":false,
       "socials":[
@@ -1488,7 +1327,7 @@
         }
       ],
       "tags":[
-
+        "Web"
       ]
     },
     {
@@ -1497,7 +1336,7 @@
       "photoUrl":"/images/speakers/igor-laborie.jpg",
       "company":"MonkeyPatch",
       "bio":"Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime aussi des rdv techniques au travers de ma société ou dans des meetings comme le Toulouse JUG, Software Craftsmanship Toulouse.",
-      "shortBio":"Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime aussi des rdv techniques au travers de ma société ou dans des meetings comme le Toulouse JUG, Software Craftsmanship Toulouse.",
+      "shortBio":"Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web",
       "country":"Toulouse, France",
       "featured":false,
       "socials":[
@@ -1513,7 +1352,9 @@
         }
       ],
       "tags":[
-
+        "Java",
+        "CSS",
+        "Web"
       ]
     }
   ],
