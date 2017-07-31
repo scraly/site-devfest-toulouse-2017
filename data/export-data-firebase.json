@@ -272,6 +272,19 @@
       ],
       "title": "Quand Internet sera gouvernée par les |chats> de Shrödinger"
     },
+	"1593":{
+      "id": 1593,
+      "complexity": "Confirmé",
+      "description":"Les valves utilisées dans les orgues de barbarie utilisent un système de membrane mobile et de contre-réaction qui permet, en créant un petit débit d'air d'un côté grace aux trous perforés dans le carton, de contrôler un débit d'air plus important vers les flûtes.\nCe principe - contrôler un grand débit à partir d'un petit débit - est précisément celui des lampes utilisées dans les premiers ordinateur (Atanasoff–Berry, Colossus, puis l'ENIAC) et celui des transistors dont nous avons en général quelques millions dans nos poches.\nJe me suis posé la question de savoir s'il était donc possible de réaliser une calculatrice pneumatique avec des outils simples dans son garage.\n\nDans ce talk, je vous propose de montrer rapidement les questions sur lesquels j'ai travaillé, les sources, les prototype, où j'en suis, et ce qu'il reste à faire pour faire une machine qui compte sur les doigts, mais en binaire, quand on soufle dans des pailles.",
+      "language": "Français",
+      "speakers": [
+        2357
+      ],
+      "tags": [
+        "WTF et autres"
+      ],
+      "title": "Des portes logiques pneumatiques en bois"
+    },
     "1610":{
       "id": 1610,
       "complexity": "Confirmé",
@@ -289,7 +302,7 @@
       "id": 1626,
       "complexity": "Débutant",
       "description": "Functional programming reminds you of some old school memories... Monad scares you and you think High Order Function are rude words. However you love lambdas and you feel immutability is a great thing. I will introduce you to core principles of functionnal programming without complexity and you will be able to apply them straight away. No installation required: just internet, a basic knowledge of your favourite language and a web browser.",
-      "language": "English",
+      "language": "Français",
       "speakers": [
         1136
       ],
@@ -298,13 +311,27 @@
       ],
       "title": "Functional Programming Explained to my grandma"
     },
+	"1637":{
+      "id": 1637,
+      "complexity": "Confirmé",
+      "description":"# Introduction au marble testing Rx (Web, iOS, Android)\n\nCe quicky est une introduction à une technique de test innovante et visuelle d'un flow de données Rx, encore méconnue des utilisateurs de Rx. \n\nCette technique, inspirée des diagrammes marble, facilite énormément l'écriture d'un test unitaire d'un système asynchrone tout en réduisant la verbosité du test.\n\nAppliquée à un MVVM réactif, où les entrées utilisateurs, appels à des services et sorties sont cablés sous forme d'un flow Rx, il devient possible de tester le comportement de l'interface (ViewModel) dans le temps, sans recourir à du test end to end.\n\nCe talk s'appuiera sur l'exemple d'une application météo simple, ou l'utlisateur rentre le nom de sa ville et voit apparaitre la météo dans sa ville.\n\nLe marble testing permettra de tester aisément des cas \"tordus\", mais réalistes, tel qu'un utilisateur qui tape une autre ville alors que la météo de la ville précédente est encore en cours de chargement.\n\nL'exemple live sera donné en RxJs, mais l'application sera déclinée en RxSwift (iOS) et RxJava (Android) sur des repositories fournis ultérieurement.",
+      "language": "Français",
+      "speakers": [
+        2417
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Introduction au marble testing Rx (Web, iOS, Android)"
+    },
     "1638":{
       "id": 1638,
       "complexity": "Débutant",
       "description": "Ever wanted to build a chatbot? What if you could use a voice assistant to manage your agenda for the conference? Know if there are any presentations on Machine Learning, or Docker, or your favorite programming language? Find out more about a speaker...etc.\n\nIn this session, we will look at how to build our own voice assistant, using Google Cloud's natural speech and voice recognition APIs with API.AI services, and Google Cloud Functions to implement Necessary business logic. \n\nGrab some popcorn and enjoy!",
       "language": "Français",
       "speakers": [
-        1222
+        1222,
+		1028
       ],
       "tags": [
         "Cloud"
@@ -323,6 +350,19 @@
         "Cloud"
       ],
       "title": "BATTLESTAR GALACTICA: Saison 5 - Les Cylons passent dans le cloud avec Vert.x"
+    },
+	"1694":{
+      "id": 1694,
+      "complexity": "Débutant",
+      "description":"Avec api.ai il n'y a pas plus simple pour créer un chatbot. Je vous montrerai comment déployer un chatbot en 5 étapes au cours desquelles nous aborderons les concepts clés d'api.ai. \n\nAu cours de la session, nous verrons comment créer un agent conversationnel, avec des entities pour pouvoir extraire de l'information à partir de texte et des intents pour représenter les différentes réactions du chatbot.\nPuis nous verrons comment entraîner notre chatbot, pour qu'il s'améliore au cours du temps. Il ne restera plus qu'à l'intégrer!",     
+	  "language": "Français",
+      "speakers": [
+        333
+      ],
+      "tags": [
+        "IA"
+      ],
+      "title": "Un chatbot en 5 étapes avec api.ai"
     },
     "1697":{
       "id": 1697,
@@ -349,6 +389,19 @@
         "IOT"
       ],
       "title": "La boîte aux lettres connectée, pour être averti quand le facteur est passé"
+    },
+	"1712":{
+      "id": 1712,
+      "complexity": "Confirmé",
+      "description": "Nous connaissons tous les frameworks/librairies à la mode : de Angular à React, en passant par le tout dernier VueJS. Mais devons-nous nous limiter à ces trois solutions ? \nDurant cette conférence, nous allons aborder plutôt les projets les moins connus, mais pas les moins intéressants, et qui pourraient être sources\nd'idées pour les grands du Web. De Inferno à Marko, en passant par Preact, nous allons enfin pouvoir connaitre les avantages et inconvénients de ces solutions\nalternatives.",
+      "language": "Français",
+      "speakers": [
+        227
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Il n'y a pas que Angular, React ou VueJS dans la vie"
     },
     "1732":{
       "id": 1732,
@@ -389,13 +442,27 @@
       ],
       "title": "Kubernetes et les containers pour votre application Web : step by step"
     },
+	"1787":{
+      "id": 1787,
+      "complexity": "Confirmé",
+      "description":"`React` n'est pas un framework, c'est juste une librairie. Elle fait très bien son boulot, mais dans un projet sérieux, il faut lui ajouter d'autres briques. Si certaines se sont imposées comme des standards (redux, react-router), sur d'autres domaines il reste beaucoup d'effervescence, signe que le sujet n'est pas encore mûr (css-in-js, GraphQL...).\n\nComment dans ces conditions mettre en place une pile technique pérenne et de bonnes pratiques sur son projet ? Ces choix importants conditionnent la vitalité du projet, son évolutivité et le plaisir qu'on aura à le créer, donc sa qualité.\n\nJe n'ai bien-sûr pas de réponse définitive à ces questions, mais je me propose de présenter les choix que j'ai faits ou évalués sur les différents projets sur lesquels j'ai travaillé. Ça ne peut être qu'indicatif, mais j'espère susciter la discussion si vous avez un autre point de vue, et pourquoi pas vous faire découvrir de nouvelles choses que vous n'aviez pas envisagées.\n\nPour rendre l'exercice ludique, j'aurais 15 diapos en 15 minutes, un thème par diapo.\n\n[Et pour garantir la qualité du contenu, je compte sonder la communauté React toulousaine et plus, pour recueillir les idées et les avis et partager le résultat.]",
+	  "language": "Français",
+      "speakers": [
+        207
+      ],
+      "tags": [
+        "Web"
+      ],
+      "title": "Bonnes pratiques React en 15 diapos"
+    },
     "1798":{
       "id": 1798,
       "complexity": "Confirmé",
-      "description": "Ah, les web components, quelle belle idée ! Un nouveau standard, du développement web basé enfin sur une vraie architecture en composants, de la réutilisation, de la modularisation, de l'encapsulation... Des choses que les développeurs backend ont depuis plus de trente ans enfin disponibles pour les développeurs web… La version 1.0 du standard étant enfin sortie, il est temps de voir si la réalité des Web Components est à la hauteur des promesses.\n \nDans ce talk on va essayer de répondre à une des questions qu'on nous pose le plus souvent quand nous parlons de web components : \"OK, le futur sera beau, mais aujourd'hui, si je fais des componsants avec une bibliothèque X et mon pote en fait avec une bibliothèque Y, je peux les utiliser dans la même application ? Et ils marcheront dans mon framework favori ?\" \n \nPour répondre a cette question, nous allons mettre à profit ces 45 minutes pour intégrer et faire parler des composants web dans un maximum de technologies. Car face à la tendance à se polariser avec des querelles de chapelles type Angula vs React vs Aurelia vs Polymer vs Meteor nous préférons le slogan Let's work hand in hand and move the web forward",
+      "description": "Ah, les web components, quelle belle idée ! Un nouveau standard, du développement web basé enfin sur une vraie architecture en composants, de la réutilisation, de la modularisation, de l'encapsulation... Des choses que les développeurs backend ont depuis plus de trente ans enfin disponibles pour les développeurs web… La version 1.0 du standard étant enfin sortie, il est temps de voir si la réalité des Web Components est à la hauteur des promesses.\n \nDans ce talk on va essayer de répondre à une des questions qu'on nous pose le plus souvent quand nous parlons de web components : \"OK, le futur sera beau, mais aujourd'hui, si je fais des componsants avec une bibliothèque X et mon pote en fait avec une bibliothèque Y, je peux les utiliser dans la même application ? Et ils marcheront dans mon framework favori ?\" \n \nPour répondre a cette question, nous allons mettre à profit ces 45 minutes pour intégrer et faire parler des composants web dans un maximum de technologies. Car face à la tendance à se polariser avec des querelles de chapelles type Angular vs React vs Aurelia vs Polymer vs Meteor nous préférons le slogan Let's work hand in hand and move the web forward",
       "language": "Français",
       "speakers": [
-        120
+        120,
+		121
       ],
       "tags": [
         "Web"
@@ -408,7 +475,8 @@
       "description": "Présentation du langage Rust et de son écosystème.\n\nLe but étant de faciliter le démarrage sur cette technologie pour des personnes utilisant des langages haut niveau comme Java. Dans cette présentation nous découvrirons: \n* Le Langage (3 piliers)\n    * Productivité : API fonctionnelle, pas de gestion manuelle de la mémoire, typage fort, inférence de type\n    * Performance : Compilation native avec LLVM, ∅GC, langage bas niveau\n    * Sûreté : sûreté de la mémoire, pas d’accès concurrent\n    * Features présentées (et animées !) :\n        * struct / trait / generics\n        * ownership / borrowing / lifetime\n        * memory guarantees : Box / Rc / Cell / Arc\n        * macro\n* L'Écosystème :\n    * IDE, tests, debugger, RLS (?)\n    * Build et packages manager (Cargo)\n    * Librairies phares (Iron, Mio, Nom, Piston)\n\nPuis nous terminerons sur une démo multi plateforme avec un backend tournant sur les différentes plateformes: Windows / Linux / ARM, puis un frontend en webassembly avec rust.",
       "language": "Français",
       "speakers": [
-        2497
+        2497,
+		2498
       ],
       "tags": [
         "Languages"
@@ -434,7 +502,8 @@
       "description": "Depuis quelques années, de nombreux outils sont apparus pour nous permettre de structurer au mieux nos applications front-end. Des bibliothèques, comme React, des architectures de gestion d'états, comme Redux, et même des surcouches au langage comme TypeScript.\n\nEt si nous pouvions repenser JavaScript de zéro, et créer un langage adapté au développement web tel qu'on le pratique aujourd'hui, en tenant compte de toutes ces bonnes pratiques découvertes sur la route ?\n\nC'est de là qu'est né Elm, un langage fonctionnel qui se compile en JavaScript et qui certifie l'absence d'erreurs au runtime (fini les *undefined is not a function*!), dont les messages d'erreur à la compilation sont limpides et les performances excellentes. En court : si ça compile, c'est que ça marche !\n\nJe vous propose de découvrir ce qui fait de ce langage l'un des plus productifs et confortables que j'ai pu utiliser à travers sa syntaxe, et je vous montrerai ensuite qu'il est extrêmement simple d'ajouter progressivement des briques Elm à une application JavaScript standard ! Nous finirons enfin par un live-coding pour mettre en pratique ces connaissances nouvellement acquises.",
       "language": "Français",
       "speakers": [
-        677
+        677,
+		119
       ],
       "tags": [
         "Web"
@@ -452,7 +521,7 @@
       "tags": [
         "Data"
       ],
-      "title": "STREAM PROCESSING AVEC APACHE FLINK"
+      "title": "Stream processing avec Apache Flink"
     },
     "1888":{
       "id": 1888,
@@ -473,7 +542,8 @@
       "description": "Pour tous dev mobile, que ce soit seul ou en équipe, le déploiement d'une app sur le store de Google ou d'Apple est un passage (quasi) obligatoire.\n\nAndroid et iOS sont différents jusque dans les IDE et les outils de build. Mais au delà de XCode, Android Studio, gradle... des libraries tels que fastlane vont tenter de réconcilier (un peu) les deux univers.\n\nNous allons voir comment intégrer la phase de publication dans le processus de build. Et cela via quelques lignes de script ou même directement dans les outils d'intégration continue tel que Jenkins.",
       "language": "Français",
       "speakers": [
-        2652
+        2652,
+		2653
       ],
       "tags": [
         "Mobile"
@@ -486,7 +556,8 @@
       "description": "Elle s’appelle UX, lui s’appelle Devops.  \nIls sont amoureux mais sont au coeur de disputes entre deux familles rivales tels les Capulet et les Montaigu.  \nElle partage beaucoup de points communs avec lui :\n- Ils ne voient jamais un projet dans son intégralité.\n- Les deux sont des concepts émergeants des années 2010 au sein de l’IT.\n- Ils sont tous les deux au centre des équipes et servent de liant entre les développeurs. Mais malgré tout, tout les sépare !\nCependant, les choses ont changé et les meurs ont évolué.  \n  \nUn jour, alors que notre Devops tentait en vain de convaincre sa hiérarchie, de désespoir, il se tourna vers UX et pria pour son assistance. Ce qu’il vit alors l’enchanta et il compris … Ses faiblesses étaient ses forces et il pouvait lui apporter autant.  \nSon idéation était semblable à son automatisation.  \nQuand il lui parlait de Scale, elle comprenait même si ce n’était pas la même chose (analytics scale) et leurs objectifs étaient beaucoup trop semblables pour que ce soit une coincidence …  \n  \nVenez voir l’histoire d’amour la plus improbable des ces 10 dernières années !",
       "language": "Français",
       "speakers": [
-        191
+        191,
+		192
       ],
       "tags": [
         "Methods & Tools"
@@ -519,6 +590,32 @@
       ],
       "title": "Balade au pays de «Let's Encrypt»"
     },
+	"2125":{
+      "id": 2125,
+      "complexity": "Débutant",
+	  "description":"On parle de diversité, un peu partout dans les communautés open source maintenant mais pour la plupart cela se résume à avoir un code of conduct. C’est loin d’être suffisant! Et si on regardait ce que l’on peut faire pour s’ouvrir aux gens de tous horizons ? Dans les entreprises ? Au sein des projets open source ? Et si vous veniez comprendre comment j’en suis arrivée à devenir développeuse de logiciels libres ? Ce talk est un retour d’expérience sur quand, pourquoi et comment je suis tombée dans l’open source. Et finalement pourquoi j’ai décidé de continuer dans cette voie.",
+	  "language": "Français",
+      "speakers": [
+        2742
+      ],
+      "tags": [
+        "WTF"
+      ],
+      "title": "Libérée! Délivrée! ou Comment devenir développeuse open source ?"
+    },
+	 "2129":{
+      "id": 2129,
+      "complexity": "Débutant",
+      "description": "On le sait tous, JavaScript est partout : De l'IoT au serveur en passant par votre téléviseur !\nDans toutes les conférences, on nous présente de nouvelles évolutions exceptées la face cachée de l'iceberg : la publication annuelle pour les révisions de JavaScript.\nCe langage avec lequel on peut tout faire repose sur un ensemble de normes concernant les langages de script et est standardisé.\nQuel organisme s'occupe de ça ?\nComment sont sélectionnées les nouvelles fonctionnalités ?\nQuelles sont celles qui nous attendent pour les versions à venir ?\nVenez découvrir tout cela avec nous dans ce quickie.",
+	  "language": "Français",
+      "speakers": [
+        819
+      ],
+      "tags": [
+        "Languages"
+      ],
+      "title": "ES2048"
+    },
     "2137":{
       "id": 2137,
       "complexity": "Confirmé",
@@ -532,13 +629,28 @@
       ],
       "title": "Les lois de la physique classique s'appliquent aussi au Big Data !"
     },
+	 "2151":{
+      "id":"2151",
+	  "complexity": "Débutant",
+      "title": "Et après Développeur, chef de projet ?",
+      "description":"Aujourd'hui, le parcours de carrière d'un développeur manque de modèles et d'idéaux. La réponse la plus courante reste \"Chef de Projet\" et pourtant, ce n'est pas ce qui fait rêver la majorité des développeurs :/\n\nJeChercheUnDev.fr a accompagné plus de 1000 développeurs dans leurs changements de carrière. Voici ce que nous avons appris.",
+      "speakers": [
+        840
+      ],
+      "tags": [
+        "WTF"
+      ],
+   },
     "2158":{
       "id": 2158,
       "complexity": "Débutant",
       "description": "Un jour, 4 devs un peu barés 🙋🐼🐥🦁 (attention les rôles peuvent changer au dernier moment 😜) un entrepreneur plein d'humour 🐨 (qui comprend le geek)  se retrouvent à une terrasse de café\n\n- 🙋 : N'empêche que le nom \"Scalafistes\" ça vous va super bien!  `#trollinside`\n- 🐼 : Non. 🙋, tu prends des raccourcis ...\n- 🐥 : Ah moi j'aime bien aussi, je revendique même!  Je suis un Scalafiste de l'extrême, et Play vaincra!!!\n- - 🐼 : depuis quand 🐥 tu fais du Scala? ...\n- 🦁 : Là, mecs,  vous \"vendez\" une vision totalement réductrice du paysage fonctionnel, Il n'y a pas que Scala dans la vie, prend Haskell et la beauté des théories mathématiques associées, l'intelligence du système de types de Rust qui te propose des monades Option en retour de fonction, le ...\n- 🐼 : Vous me faites marrer avec vos types, si tu sais coder, tu peux faire du fonctionnel en JavaScript `#trollinside` `#oupas`\n- 🐥 : MDR 🐼, je suis sûr que avec ton Node tu feras que de la 💩\n- 🐨 : `#defi` est-ce que vous vous croyez capables de m'expliquer ces concepts en termes simples?\n- 🙋 : Oh oui 🐨, dessine nous une monade!\n- 🐥 : Quelqu'un reprend un 🍷?\n- 🙋🐼🐥🐨🦁 👍",
       "language": "Français",
       "speakers": [
-        1772
+        1772,
+		1773,
+		1136,
+		2
       ],
       "tags": [
         "WTF et autres"
@@ -551,25 +663,12 @@
       "description": "A partir d'une application concrète dans le monde de l'automobile (voitures connectées), cette présentation illustrera l'architecture AWS mise en place pour y répondre. \nNotre approche consiste à collecter et traiter les données des véhicules, en considérant à la fois une approche streaming et une approche batch.\nL'architecture mise en place comprend les services managés suivants:\n- IoT\n- Lambda\n- Kinesis Stream\n- Kinesis Firehose\n- Elastic Map Reduce (EMR)\n- Elastic Search Service (ESS)\n- S3\n- Cloudwatch \n\nPour chacun des services nous présenterons les avantages et les inconvénients rencontrés dans notre cas.",
       "language": "Français",
       "speakers": [
-        2690
+        2691
       ],
       "tags": [
         "Cloud"
       ],
       "title": "Big Data avec AWS : notre retour d'expérience sur l'utilisation des services managés"
-    },
-    "2163":{
-      "id": 2163,
-      "complexity": "Débutant",
-      "description": "**Elm** est un language fonctionnel fortement typé qui compile vers JavaScript. Il offre une approche pure et immutable avec un compiler proposant des messages d'erreur extrêmement compréhensibles. Lorsque l'on lit des articles à son sujet sur internet, on peut voir des phrases fortes comme \"*Aucune erreur au runtime*\" ou \"*Quand ça compile, ça marche*\" ou encore \"*Le compiler Elm est mon meilleur ami de pair-programming*\".\n\nAprès avoir utilisé ce language pendant plus d'un an en production, nous verrons si tout est si magique que cela et surtout, le cas échéant, quel est le prix à payer pour y parvenir. Nous aborderons également des points comme \"*Quelle est la différence avec TypeScript ?*\" ou \"*Est-ce que cela marche aussi bien côté client que côté serveur ?*\".",
-      "language": "Français",
-      "speakers": [
-        119
-      ],
-      "tags": [
-        "Languages"
-      ],
-      "title": "Elm, est-ce si bien qu'on le dit ?"
     },
     "2164":{
       "id": 2164,
@@ -582,7 +681,7 @@
       "tags": [
         "Web"
       ],
-      "title": "ici votre commandant de bord, on passe en mode avion !"
+      "title": "Ici votre commandant de bord, on passe en mode avion !"
     },
     "2166":{
       "id": 2166,
@@ -590,7 +689,8 @@
       "description": "**Introduction pratique à LIME** (Local Interpretable Model-Agnostic Explanations), un pas supplémentaire vers l'interprétabilité des modèles de Machine Learning.\n___\nL'utilisation de modèles de Machine Learning (ML) dans la résolution d'une grande variété de problèmes est de plus en plus populaire. Ces modèles mathématiques sont pour certains (comme les régressions linéaires ou bien les arbres de décisions) facilement interprétables. Cependant, les modèles ML à la pointe de la technologie, permettant de répondre à des problèmes complexes, comme les réseaux de neurones profonds, sont de facto des boîtes noires, au fonctionnement interne inaccessible. Cela soulève une question primordiale : puis-je avoir confiance dans les résultats donnés par mon modèle ?\n\nEn prenant l'exemple concret d'un algorithme de classification d'images utilisant un réseau de neurones, nous introduirons LIME une technique novatrice permettant de visualiser les caractéristiques de l'image qui ont permis au modèle de prendre sa décision.",
       "language": "Français",
       "speakers": [
-        2823
+        2823,
+		2824
       ],
       "tags": [
         "Machine Learning"
@@ -718,6 +818,27 @@
         "GoloLang"
       ],
       "title":"Golo tech-evangelist-dev-relation-advocate"
+    },
+	{
+      "bio":"ComputerScientist[Freelance]",
+      "company":"",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":1773,
+      "name":"Didier Plaindoux",
+      "photoUrl":"/images/speakers/didier-plaindoux.jpg",
+      "shortBio":"ComputerScientist[Freelance]",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/dplaindoux",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+        "Functional Programming"
+      ],
+      "title":"ComputerScientist[Freelance]"
     },
     {
       "bio":"Architecte et développeur passionné. A travaillé comme architecte, CTO et leader technique dans plusieurs startups. Expert technique multi-compétences : systèmes scalables, NoSQL, moteurs de recherche, mais aussi front-end, devops et Iot. Bref, full-stack. Membre de la fondation Apache.",
@@ -891,6 +1012,30 @@
       ],
       "title":"GDE Polymer"
     },
+	{
+      "bio":"Front End CTO @sfeir GDE @google HTML5, JS, Web Components, Angular, Polymer, @bestofwebconf organizer...",
+      "company":"Sfeir",
+      "country":"Brest, France",
+      "featured":false,
+      "id":121,
+      "name":"Cyril Balit",
+      "photoUrl":"/images/speakers/cyril-balit.jpeg",
+      "shortBio":"Front End CTO chez SFEIR",
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/cbalit",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+        "Web",
+        "Polymer",
+        "Web Components",
+        "Mixité"
+      ],
+      "title":"GDE Polymer"
+    },
     {
       "bio":"Machine Learner au sein de l'équipe AI de Continental Digital Services France.",
       "company":"Continental",
@@ -911,6 +1056,26 @@
           "link":"https://github.com/samastro/",
           "name":"GitHub"
         }
+      ],
+      "tags":[
+        "Machine Learning"
+      ]
+    },
+	    {
+      "bio":"Data Scientist chez Continental Digital Services France.",
+      "company":"Continental",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":2824,
+      "name":"Florent Pajot",
+      "photoUrl":"/images/speakers/florent-pajot.jpg",
+      "shortBio":"Data Scientist chez Continental Digital Services France",
+      "socials":[
+        {
+          "icon":"linkedin",
+          "link":"https://www.linkedin.com/in/florentpajot/?ppe=1",
+          "name":"LinkedIn"
+        },
       ],
       "tags":[
         "Machine Learning"
@@ -982,6 +1147,43 @@
           "name":"Twitter"
         }
       ],
+      "tags":[
+        "Agilité",
+        "Cloud",
+        "AWS"
+      ]
+    },
+	{
+      "bio":"Ingénieure développement Big Data chez Continental Digital Services France.",
+      "shortBio":"Ingénieure développement Big Data chez Continental Digital Services France.",
+      "company":"Continental",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":2692,
+      "name":"Fanny Martin",
+      "photoUrl":"/images/speakers/fanny-martin.jpg",
+      "socials":[
+        {
+          "icon":"linkedin",
+          "link":"https://www.linkedin.com/in/martinfanny/",
+          "name":"LinkedIn"
+        }
+      ],
+      "tags":[
+        "Agilité",
+        "Cloud",
+        "AWS"
+      ]
+    },
+		{
+      "bio":"Continental Digital Services France.",
+      "shortBio":"Continental Digital Services France.",
+      "company":"Continental",
+      "country":"Toulouse, France",
+      "featured":false,
+      "id":2693,
+      "name":"Matthieu Bernardin",
+      "photoUrl":"/images/speakers/matthieu-bernardin.jpg",
       "tags":[
         "Agilité",
         "Cloud",
@@ -1083,6 +1285,27 @@
         "UX"
       ]
     },
+	{
+      "id":192,
+      "name":"Estelle Landry",
+      "photoUrl":"/images/speakers/estelle-landry.jpg",
+      "company":"TabMo",
+      "bio":"Product Owner chez TabMo.",
+      "shortBio":"Product Owner chez TabMo.",
+      "country":"Montpellier, France",
+      "featured":false,
+      "socials":[
+        {
+          "icon":"linkedin",
+          "link":"https://www.linkedin.com/in/estelle-landry-61866b71/?ppe=1",
+          "name":"LinkedIn"
+        }
+      ],
+      "tags":[
+        "Devops",
+        "UX"
+      ]
+    },
     {
       "id":2652,
       "name":"Florian Chauveau",
@@ -1096,6 +1319,28 @@
         {
           "icon":"twitter",
           "link":"https://twitter.com/florianchauveau",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+        "IOS",
+        "Android",
+        "Devops"
+      ]
+    },
+	{
+      "id":2653,
+      "name":"Cédric Gatay",
+      "photoUrl":"/images/speakers/cedric-gatay.jpg",
+      "company":"Code-Troopers",
+      "bio":"Après un passage par une start-up qui n'a malheureusement pas su déployer ses ailes, Cedric a co-fondé Code-Troopers : un studio de développement agile basé à Tours. À côté de cette activité principale, il a aussi participé à plusieurs ouvrages chez Packt Publishing et a co-fondé le Google Developer Group de Tours. Il a aussi lancé l'OpenDeviceLab de Tours.",
+      "shortBio":"Membre des @CodeTroopers et organisateur du GDG Tours",
+      "country":"Tours, France",
+      "featured":false,
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/Cedric_Gatay",
           "name":"Twitter"
         }
       ],
@@ -1132,6 +1377,28 @@
         "Fuchsia"
       ]
     },
+	{
+      "id":352,
+      "name":"Kévin Segaud",
+      "photoUrl":"/images/speakers/kevin-segaud.jpg",
+      "company":"",
+      "bio":"Eclectic Developer",
+      "shortBio":"Eclectic Developer ",
+      "country":"Toulouse, France",
+      "featured":false,
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/kevin_segaud",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+        "Dart",
+        "Flutter",
+        "Fuchsia"
+      ]
+    },
     {
       "id":286,
       "name":"Tugdual Grall",
@@ -1159,8 +1426,8 @@
     },
     {
       "id":677,
-      "name":"Jordan Grenat",
-      "photoUrl":"/images/speakers/jordan-grenat.jpg",
+      "name":"Jordane Grenat",
+      "photoUrl":"/images/speakers/jordane-grenat.jpg",
       "company":"Viseo",
       "bio":"Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes (frameworks front, Node.js, tooling, Elm, ...)",
       "shortBio":"Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes",
@@ -1227,6 +1494,27 @@
           "icon":"github",
           "link":"https://github.com/loganmzz",
           "name":"GitHub"
+        }
+      ],
+      "tags":[
+        "Java",
+        "Rust"
+      ]
+    },
+	{
+      "id":2498,
+      "name":"Alessio Coltellacci",
+      "photoUrl":"/images/speakers/alessio-coltellacci.jpg",
+      "company":"",
+      "bio":"Software Developer",
+      "shortBio":"Software Developer",
+      "country":"Toulouse, France",
+      "featured":false,
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/lightplay8",
+          "name":"Twitter"
         }
       ],
       "tags":[
@@ -1363,7 +1651,7 @@
       "company": "Viseo",
       "bio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
       "shortBio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
-      "photoUrl": "/images/speakers/alexandre-delattre",
+      "photoUrl": "/images/speakers/alexandre-delattre.jpeg",
       "featured": false,
       "socials": [
         {
@@ -1624,7 +1912,7 @@
         },
         {
           "name":"Didier Plaindoux",
-          "photoUrl":"/images/people/didier_plaindoux.jpeg",
+          "photoUrl":"/images/speakers/didier-plaindoux.jpeg",
           "socials":[
             {
               "icon":"twitter",
