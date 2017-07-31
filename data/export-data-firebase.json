@@ -1356,7 +1356,135 @@
         "CSS",
         "Web"
       ]
+    },
+    {
+      "id": 2417,
+      "name": "Alexandre Delattre",
+      "company": "Viseo",
+      "bio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
+      "shortBio": "# Ingénieur logiciel Fullstack\n\n31 ans et fort de 7 ans d'expérience dans le développement logiciel, mon parcours, auprès de startups et de grands groupes m'a permis de m'approprier une large gamme de technos fullstack:\n\n- Mobile : Android (Kotlin), iOS (Swift), Ionic \n- Backend : Java, Scala, NodeJS\n- Web : Typescript / Angular 1 & 2\n\nJe suis passioné par la mobilité, la qualité et l'innovation logicielle, l'UX et l'entrepreunariat digital.",
+      "photoUrl": "/images/speakers/alexandre-delattre",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/minegraphite",
+          "name": "Twitter"
+        }
+      ]
+    },
+    {
+      "id": 840,
+      "name": "Damien Cavaillès",
+      "company": "JeChercheUnDev.fr",
+      "bio": "Développeur et Entrepreneur, je n'accepte pas que 71% des développeurs français ne soient pas heureux de se lever le matin pour aller bosser. Du coup, j'ai construit une entreprise qui aide les développeurs à trouver leur job de rêve et ça me rend heureux.",
+      "shortBio": "Disrupting the way you hire a developer at @jechercheundev Freelance Mobile Dev, iOS & Android. Startup Weekend Facilitator.",
+      "photoUrl": "/images/speakers/damien-cavailles.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/TheDamfr",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jechercheundev/",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": 2357,
+      "name": "Fabien Tregan",
+      "company": "freelance",
+      "bio": "After spending 10+ years of my life coding, I started to feel that the problems in software development were not in the code and tryed finding solution elsewhere. Since I started doing that, I started to love coding again :)",
+      "shortBio": "After spending 10+ years of my life coding, I started to feel that the problems in software development were not in the code and tryed finding solution elsewhere. Since I started doing that, I started to love coding again :)",
+      "photoUrl": "/images/speakers/fabien-tregan.jpeg",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/ftregan",
+          "name": "Twitter"
+        }
+      ]
+    },
+    {
+      "id": 2742,
+      "name": "Mélanie Bats",
+      "company": "Obeo",
+      "bio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
+      "shortBio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
+      "photoUrl": "/images/speakers/melanie-bats.jpeg",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/melaniebats",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/mbats",
+          "name": "GitHub"
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "name": "Pauline iogna",
+      "company": "casden",
+      "bio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead. Elle aime particulièrement travailler sur les problématiques server side.\nAncienne étudiante de l'université Paris-Est Marne la Vallée, elle y enseigne à présent le java.\nElles est membre actif de Duchess France, association ayant pour but de donner de la visibilité aux femmes qui ont des métiers techniques, elle participe régulièrement à l'organisation d’événements techniques.",
+      "shortBio": "Après 7 dans différentes entreprises, Pauline a rejoint la Casden en tant que développeuse et techlead. Elle aime particulièrement travailler sur les problématiques server side.\nAncienne étudiante de l'université Paris-Est Marne la Vallée, elle y enseigne à présent le java.\nElles est membre actif de Duchess France, association ayant pour but de donner de la visibilité aux femmes qui ont des métiers techniques, elle participe régulièrement à l'organisation d’événements techniques.",
+      "photoUrl": "/images/speakers/pauline-iogna.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/pauline_io",
+          "name": "Twitter"
+        }
+      ]
+    },
+    {
+      "id": 819,
+      "name": "Régis MARIE-JOSEPH",
+      "company": "SII BREST",
+      "bio": "Dev mobiweb, curieux de tout !",
+      "shortBio": "Dev mobiweb, curieux de tout !",
+      "photoUrl": "/images/speakers/regis-marie-joseph.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/arawak971",
+          "name": "Twitter"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "name": "gilles Debunne",
+      "company": "Freelance",
+      "bio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.\nÉclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
+      "shortBio": "Développeur Freelance sur Toulouse depuis 4 ans, je me spécialise dans l'UX, front ou mobile.\nÉclectique, chercheur au CNRS, en SSII ou dans l'équipe Android chez Google, j'ai toujours travaillé près et pour l'utilisateur.",
+      "photoUrl": "/images/speakers/gilles-debunne.jpeg",
+      "featured": false,
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/gdebunne",
+          "name": "Twitter"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/GillesDebunne",
+          "name": "GitHub"
+        }
+      ]
     }
+
   ],
   "team":[
     {
