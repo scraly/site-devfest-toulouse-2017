@@ -1012,25 +1012,6 @@
     } ],
     "tags" : [ "BigData" ]
   }, {
-    "bio" : "Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes (frameworks front, Node.js, tooling, Elm, ...)",
-    "company" : "Viseo",
-    "country" : "Paris, France",
-    "featured" : false,
-    "id" : 677,
-    "name" : "Jordane Grenat",
-    "photoUrl" : "/images/speakers/jordane-grenat.jpg",
-    "shortBio" : "Développeur d'applications web depuis plusieurs années, je suis passionné par l'écosystème JavaScript sous toutes ses formes",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/JoGrenat",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/jgrenat",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "elm" ]
-  }, {
     "bio" : "Partage sa passion pour le développement. Amateur de robots et de pommes. Promoteur de l'informatique pour tous. Spécialiste de l'Internet of Things. Evangéliste chez Microsoft.",
     "company" : "Microsoft",
     "country" : "France",
