@@ -460,6 +460,19 @@
       ],
       "title":"Bonnes pratiques React en 15 diapos"
     },
+    "1794":{
+      "complexity":"Débutant",
+      "description":"Petite présentation pour essayer de cerner ce qu'est cet OVNI dans l'univers des technos Web. Ce nouveau standard débarque dans les navigateurs et soulève pas mal de questions sur ses promesses (rapidité ! cible de compilation universelle !) et son positionnement par rapport aux autres technos, comme JavaScript que certains rêvent de voir disparaître (spoiler alert : non, WebAssembly n'a pas du tout vocation à remplacer JavaScript). Un peu d'histoire et de technique pour s'éclaircir les idées et pour voir comment on travaille avec cette techno émergente.",
+      "id":1794,
+      "language":"Français",
+      "speakers":[
+        2545
+      ],
+      "tags":[
+        "Web"
+      ],
+      "title":"WebAssembly ? Web et assembleur ? WTF !"
+    },
     "1798":{
       "complexity":"Confirmé",
       "description":"Ah, les web components, quelle belle idée ! Un nouveau standard, du développement web basé enfin sur une vraie architecture en composants, de la réutilisation, de la modularisation, de l'encapsulation... Des choses que les développeurs backend ont depuis plus de trente ans enfin disponibles pour les développeurs web… La version 1.0 du standard étant enfin sortie, il est temps de voir si la réalité des Web Components est à la hauteur des promesses.\n \nDans ce talk on va essayer de répondre à une des questions qu'on nous pose le plus souvent quand nous parlons de web components : \"OK, le futur sera beau, mais aujourd'hui, si je fais des componsants avec une bibliothèque X et mon pote en fait avec une bibliothèque Y, je peux les utiliser dans la même application ? Et ils marcheront dans mon framework favori ?\" \n \nPour répondre a cette question, nous allons mettre à profit ces 45 minutes pour intégrer et faire parler des composants web dans un maximum de technologies. Car face à la tendance à se polariser avec des querelles de chapelles type Angular vs React vs Aurelia vs Polymer vs Meteor nous préférons le slogan Let's work hand in hand and move the web forward",
@@ -1786,6 +1799,28 @@
       ],
       "tags":[
         "Java",
+        "CSS",
+        "Web"
+      ]
+    },
+    {
+      "id":2545,
+      "name":"Nicolas Decoster",
+      "photoUrl":"/images/speakers/nicolas-decoster.jpg",
+      "company":"Magellium",
+      "bio":"Informaticien curieux depuis 35 ans, de métier depuis 20 ans (principalement dans le spatial). Non spécialiste touche à tout : du développement logiciel à l'étude scientifique, du développement d'algorithmes de traitement à la mise en œuvre de systèmes, de la programmation en C++ ou Python à l'utilisation des technos Web, de la petite appli en ligne de commande aux IHM ou aux systèmes distribués. Travaille actuellement sur l'étude de l'utilisation de WebAssembly pour la valorisation des données d'observation de la terre.",
+      "shortBio":"Developer for science and other stuff, co-founder of @CompagnieDuCode",
+      "country":"Toulouse, France",
+      "featured":false,
+      "socials":[
+        {
+          "icon":"twitter",
+          "link":"https://twitter.com/nnodot",
+          "name":"Twitter"
+        }
+      ],
+      "tags":[
+        "Javascript",
         "CSS",
         "Web"
       ]
