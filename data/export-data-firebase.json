@@ -1937,8 +1937,8 @@
       "name":"Nicolas Decoster",
       "photoUrl":"/images/speakers/nicolas-decoster.jpg",
       "company":"Magellium",
-      "bio":"Informaticien curieux depuis 35 ans, de métier depuis 20 ans (principalement dans le spatial). Non spécialiste touche à tout : du développement logiciel à l'étude scientifique, du développement d'algorithmes de traitement à la mise en œuvre de systèmes, de la programmation en C++ ou Python à l'utilisation des technos Web, de la petite appli en ligne de commande aux IHM ou aux systèmes distribués. Travaille actuellement sur l'étude de l'utilisation de WebAssembly pour la valorisation des données d'observation de la terre.",
-      "shortBio":"Developer for science and other stuff, co-founder of @CompagnieDuCode",
+      "bio":"Informaticien curieux depuis 35 ans, de métier depuis 20 ans (principalement dans le spatial). Non spécialiste touche à tout : du développement logiciel à l'étude scientifique, du développement d'algorithmes de traitement à la mise en œuvre de systèmes, de la programmation en C++ ou Python à l'utilisation des technos Web, de la petite appli en ligne de commande aux IHM ou aux systèmes distribués. Travaille actuellement chez Magellium sur une étude CNES sur l'utilisation de WebAssembly pour la valorisation des données d'observation de la terre.",
+      "shortBio":"Developer for science and other stuff, work for Magellium",
       "country":"Toulouse, France",
       "featured":false,
       "socials":[
@@ -1950,7 +1950,7 @@
       ],
       "tags":[
         "Javascript",
-        "CSS",
+        "C++",
         "Web"
       ]
     }
